@@ -152,5 +152,57 @@
       "name": "Substance Abuse Recovery",
       "description": "Detox programs, counseling, job training"
     }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "enabled": true
+    },
+    {
+      "code": "es",
+      "name": "Espa\u00f1ol",
+      "enabled": true
+    },
+    {
+      "code": "nav",
+      "name": "Din\u00e9 bizaad",
+      "enabled": false
+    },
+    {
+      "code": "hua",
+      "name": "Havasuw",
+      "enabled": false
+    },
+    {
+      "code": "hual",
+      "name": "Hwaal\u02bcapay",
+      "enabled": false
+    },
+    {
+      "code": "zh",
+      "name": "\u4e2d\u6587",
+      "enabled": false
+    },
+    {
+      "code": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t",
+      "enabled": false
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "enabled": false
+    },
+    {
+      "code": "ko",
+      "name": "\ud55c\uad6d\uc5b4",
+      "enabled": false
+    },
+    {
+      "code": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "enabled": false
+    }
   ]
 }
