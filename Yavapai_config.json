@@ -1,0 +1,177 @@
+{
+  "county": "Yavapai",
+  "tagline": "Yavapai County Digital Resource Hub",
+  "cities": [
+    {
+      "name": "Prescott",
+      "population": "45,827"
+    },
+    {
+      "name": "Prescott Valley",
+      "population": "46,785"
+    },
+    {
+      "name": "Cottonwood",
+      "population": "12,023"
+    },
+    {
+      "name": "Sedona",
+      "population": "10,339"
+    },
+    {
+      "name": "Camp Verde",
+      "population": "11,196"
+    },
+    {
+      "name": "Chino Valley",
+      "population": "13,020"
+    },
+    {
+      "name": "Clarkdale",
+      "population": "4,391"
+    },
+    {
+      "name": "Jerome",
+      "population": "455"
+    },
+    {
+      "name": "Dewey-Humboldt",
+      "population": "4,326"
+    },
+    {
+      "name": "Ash Fork",
+      "population": "748"
+    },
+    {
+      "name": "Bagdad",
+      "population": "1,876"
+    },
+    {
+      "name": "Black Canyon City",
+      "population": "2,837"
+    },
+    {
+      "name": "Congress",
+      "population": "1,986"
+    },
+    {
+      "name": "Cordes Lakes",
+      "population": "2,834"
+    },
+    {
+      "name": "Mayer",
+      "population": "1,497"
+    },
+    {
+      "name": "Paulden",
+      "population": "5,231"
+    },
+    {
+      "name": "Seligman",
+      "population": "456"
+    },
+    {
+      "name": "Wilhoit",
+      "population": "897"
+    },
+    {
+      "name": "Yarnell",
+      "population": "649"
+    }
+  ],
+  "groups": [
+    {
+      "name": "All Groups",
+      "description": "General resources available to all groups"
+    },
+    {
+      "name": "Homeless Individuals",
+      "description": "Emergency shelter, transitional housing, mental health, employment programs"
+    },
+    {
+      "name": "Domestic Violence Victims",
+      "description": "Safe housing, legal aid, counseling, childcare"
+    },
+    {
+      "name": "Low-Income Families",
+      "description": "Affordable housing, food, utility aid, childcare, job training, healthcare"
+    },
+    {
+      "name": "Veterans",
+      "description": "Housing, mental health care, job placement"
+    },
+    {
+      "name": "Seniors & Disabled",
+      "description": "Healthcare, meals, transportation, caregiver support"
+    },
+    {
+      "name": "Youth & At-Risk Teens",
+      "description": "After-school programs, foster care, education support"
+    },
+    {
+      "name": "Immigrants & Refugees",
+      "description": "Legal aid (DACA/asylum), language classes, employment"
+    },
+    {
+      "name": "LGBTQ+ Community",
+      "description": "Housing, mental health, HIV/AIDS support"
+    },
+    {
+      "name": "Substance Abuse Recovery",
+      "description": "Detox programs, counseling, job training"
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "enabled": true
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "enabled": true
+    },
+    {
+      "code": "nav",
+      "name": "Diné bizaad",
+      "enabled": false
+    },
+    {
+      "code": "hua",
+      "name": "Havasuw",
+      "enabled": false
+    },
+    {
+      "code": "hual",
+      "name": "Hwaalʼapay",
+      "enabled": false
+    },
+    {
+      "code": "zh",
+      "name": "中文",
+      "enabled": false
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "enabled": false
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "enabled": false
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "enabled": false
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "enabled": false
+    }
+  ]
+}
+
