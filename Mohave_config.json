@@ -1,0 +1,140 @@
+{
+  "county": "Mohave",
+  "tagline": "Mohave County Digital Resource Hub",
+  "cities": [
+    {
+      "name": "Bullhead City",
+      "population": "41,348"
+    },
+    {
+      "name": "Golden Valley",
+      "population": "8,673"
+    },
+    {
+      "name": "Hackberry",
+      "population": "68"
+    },
+    {
+      "name": "Havasupai Reservation",
+      "population": "208"
+    },
+    {
+      "name": "Hualapai Reservation",
+      "population": "1,353"
+    },
+    {
+      "name": "Kingman",
+      "population": "31,013"
+    },
+    {
+      "name": "Lake Havasu City",
+      "population": "57,144"
+    },
+    {
+      "name": "Mohave County",
+      "population": "213,267"
+    },
+    {
+      "name": "Oatman",
+      "population": "128"
+    },
+    {
+      "name": "Seligman",
+      "population": "456"
+    },
+    {
+      "name": "Topock",
+      "population": "133"
+    },
+    {
+      "name": "Valentine",
+      "population": "38"
+    },
+    {
+      "name": "Wikieup",
+      "population": "133"
+    }
+  ],
+  "groups": [
+    {
+      "name": "All Groups",
+      "description": "General resources available to all groups"
+    },
+    {
+      "name": "Homeless Families",
+      "description": "Support for families experiencing homelessness"
+    },
+    {
+      "name": "Homeless Individuals",
+      "description": "Resources for those experiencing homelessness"
+    },
+    {
+      "name": "Low-Income Families",
+      "description": "Support for families with financial challenges"
+    },
+    {
+      "name": "Native American Communities",
+      "description": "Resources for Native American communities"
+    },
+    {
+      "name": "Tribal Members",
+      "description": "Resources specific to Native American communities"
+    },
+    {
+      "name": "Veterans",
+      "description": "Services for military veterans and their families"
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "enabled": true
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "enabled": true
+    },
+    {
+      "code": "nav",
+      "name": "Diné bizaad",
+      "enabled": false
+    },
+    {
+      "code": "hua",
+      "name": "Havasuw",
+      "enabled": false
+    },
+    {
+      "code": "hual",
+      "name": "Hwaalʼapay",
+      "enabled": false
+    },
+    {
+      "code": "zh",
+      "name": "中文",
+      "enabled": false
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "enabled": false
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "enabled": false
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "enabled": false
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "enabled": false
+    }
+  ]
+}

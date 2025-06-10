@@ -1,0 +1,1477 @@
+{
+  "stateWideResources": [
+    {
+      "name": "2-1-1 Arizona",
+      "description": "2-1-1 Arizona is a comprehensive information and referral service that connects individuals and families to over 8,500 local and statewide resources. The service helps people find assistance with basic needs, housing, utilities, food, healthcare, employment, and other essential services.",
+      "contactInfo": "Phone: Dial 2-1-1 within Arizona | 877-211-8661 from anywhere | Fax: 602-263-0979 | Arizona Relay: 7-1-1 or 800-367-8939 | Address: 1275 W. Washington St. Suite 210, Tempe, AZ 85288",
+      "website": "https://211arizona.org/",
+      "city": "Phoenix",
+      "group": "Low-Income Families",
+      "category": "Resource Directory",
+      "eligibility": "All Arizona residents",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Available by phone from 9 a.m. to 7 p.m. Monday through Friday. Website search available 24/7. Cannot help people in person at their office.",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition that provides support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate a 24/7 helpline and connect survivors with local services.",
+      "contactInfo": "Phone: 602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline) | Email: Contact through website form | Address: Phoenix, Arizona (serves statewide)",
+      "phone": "602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline)",
+      "email": "Contact through website form",
+      "website": "https://acesdv.org/",
+      "address": "Phoenix, Arizona (serves statewide)",
+      "eligibility": "Victims of sexual and domestic violence in Arizona",
+      "hours": "24/7 helpline; Office hours by appointment only",
+      "services": [
+        "24/7 helpline support",
+        "Connection to local domestic violence programs",
+        "Advocacy",
+        "Training and education",
+        "Public awareness campaigns"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition providing support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate the Arizona Sexual and Domestic Violence Helpline, offering multiple ways to connect with support services.",
+      "contactInfo": "Phone: 602-279-2900 (Office), 800-782-6400 (Helpline) | Email: info@acesdv.org | Address: 2800 N. Central Ave., Suite 1570, Phoenix, AZ 85004",
+      "phone": "602-279-2900 (Office), 800-782-6400 (Helpline)",
+      "email": "info@acesdv.org",
+      "website": "https://arizonasurvivors.org/",
+      "address": "2800 N. Central Ave., Suite 1570, Phoenix, AZ 85004",
+      "eligibility": "Anyone affected by sexual or domestic violence in Arizona",
+      "hours": "Helpline: Mon 8:30-5, Tues 8:30-7, Wed-Fri 8:30-5; Office hours may vary",
+      "services": [
+        "Sexual and domestic violence helpline",
+        "Crisis intervention",
+        "Safety planning",
+        "Referrals to local programs and shelters",
+        "Support for survivors",
+        "Educational resources",
+        "Advocacy"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "Statewide coalition providing support and resources for sexual and domestic violence survivors through helpline services, local program connections, and resources.",
+      "contactInfo": "Address: Statewide service",
+      "address": "Statewide service",
+      "eligibility": "Survivors of sexual and domestic violence",
+      "hours": "Mon 8:30-5, Tues 8:30-7, Wed-Fri 8:30-5",
+      "services": [
+        "Helpline support",
+        "Connection to local programs",
+        "Training and resources",
+        "Advocacy"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security",
+      "description": "State agency providing various assistance programs",
+      "contactInfo": "Website: https://des.az.gov/homeless",
+      "website": "https://des.az.gov/homeless",
+      "city": "Seligman",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Varies by program",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Distance to service centers creates access barriers",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "211 Arizona",
+      "description": "Statewide information and referral service",
+      "contactInfo": "Dial 2-1-1 | Website: https://211arizona.org/",
+      "website": "https://211arizona.org/",
+      "city": "Valentine",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Anyone seeking resources",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Phone-based service helps overcome geographic barriers",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Wildfire Arizona",
+      "description": "Coordinates Community Action Agencies",
+      "contactInfo": "Website: https://wildfireaz.org/",
+      "website": "https://wildfireaz.org/",
+      "city": "Wikieup",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Low-income individuals and families",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Limited direct services in remote areas",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Arizona Department of Economic Security Homeless Services",
+      "description": "A state agency that coordinates homeless services through federal and state funds, contracting with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona.",
+      "contactInfo": "Phone: 211",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "eligibility": "Individuals and families experiencing a housing crisis in Arizona",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach",
+        "Resource Coordination"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Health Care Cost Containment System (AHCCCS)",
+      "description": "Arizona's Medicaid agency that offers health care programs to serve Arizona residents. They provide resources for locating substance abuse treatment and opioid services throughout the state, including in Pinal County.",
+      "contactInfo": "Phone: 602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County) | Email: Contact through website | Address: 801 E. Jefferson, Phoenix, AZ 85034",
+      "phone": "602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County)",
+      "email": "Contact through website",
+      "website": "https://www.azahcccs.gov/Members/BehavioralHealthServices/OpioidUseDisorderAndTreatment/Locating_Treatment.html",
+      "address": "801 E. Jefferson, Phoenix, AZ 85034",
+      "eligibility": "Arizona residents; some services available regardless of insurance status",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM; Crisis services available 24/7",
+      "services": [
+        "Opioid treatment program directory",
+        "Substance abuse treatment referrals",
+        "Medication-assisted treatment",
+        "Crisis services",
+        "Peer and family support services"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security (DES) Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona, including Jerome.",
+      "contactInfo": "Phone: 211",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "city": "Jerome",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "hours": "Varies by program",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Veterans' Services (ADVS)",
+      "description": "State-funded agency committed to serving Arizona veterans, service members, and their families by ensuring they receive high-quality services.",
+      "contactInfo": "Phone: 866-429-8387",
+      "phone": "866-429-8387",
+      "website": "https://dvs.az.gov/",
+      "city": "Jerome",
+      "eligibility": "Arizona veterans, service members, and their families",
+      "hours": "Varies by service",
+      "services": [
+        "Benefits Assistance",
+        "State Veteran Homes",
+        "Military Family Relief Fund",
+        "Veterans' Memorial Cemeteries",
+        "Resource Connection"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Teen Lifeline",
+      "description": "Crisis line for teenagers where callers can talk to trained peer counselors about any problem or issue.",
+      "contactInfo": "Phone: 602-248-8336",
+      "phone": "602-248-8336",
+      "website": "https://teenlifeline.org/",
+      "city": "Jerome",
+      "eligibility": "Teenagers and young adults",
+      "hours": "3pm-9pm: Peer counselors; Other hours: Adult counselors",
+      "services": [
+        "Crisis Intervention",
+        "Suicide Prevention",
+        "Peer Counseling",
+        "Mental Health Support"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security - Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with not for profit and local government entities to provide homeless services throughout Arizona, including Cordes Lakes. Services include Rapid Rehousing, Emergency Shelter, Homeless Prevention, and Street Outreach.",
+      "contactInfo": "Phone: 211 | Address: Statewide service covering Cordes Lakes, AZ",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "address": "Statewide service covering Cordes Lakes, AZ",
+      "city": "Cordes Lakes",
+      "eligibility": "Individuals experiencing homelessness or at risk of becoming homeless",
+      "hours": "Varies by program, call 211 for information",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security",
+      "description": "The Arizona Department of Economic Security provides various support services for people with disabilities, seniors, and low-income families in Dewey-Humboldt. Their AZ Links program serves as Arizona's Aging and Disability Resource Center.",
+      "contactInfo": "Phone: 844-770-9500 | Address: 1789 W. Jefferson, Phoenix, AZ 85007",
+      "phone": "844-770-9500",
+      "website": "https://des.az.gov/services/disabilities/developmental-disabilities/community-resources-parents-family-members-and-caregivers/community-local-resource-locators",
+      "address": "1789 W. Jefferson, Phoenix, AZ 85007",
+      "city": "Dewey Humboldt",
+      "eligibility": "Arizona residents with disabilities, seniors, and low-income families",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM",
+      "services": [
+        "Resource Referrals",
+        "Disability Services",
+        "Aging Services",
+        "Financial Assistance"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    }
+  ],
+  "countyWideResources": [
+    {
+      "name": "Pima County Coordinating Agencies for Housing and Services",
+      "description": "A comprehensive directory of agencies and organizations providing housing assistance, shelter, and support services for individuals experiencing homelessness in Pima County, including resources accessible to Ajo residents.",
+      "contactInfo": "Multiple agencies with varying contact information - See website for complete listing",
+      "website": "https://www.library.pima.gov/content/coordinating-agencies-for-housing-and-services-in-pima-county/",
+      "city": "Ajo",
+      "group": "Homeless Individuals",
+      "category": "Housing and Support Services",
+      "eligibility": "Individuals experiencing homelessness or at risk of homelessness in Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "Resources include Arizona 211, Old Pueblo Community Services, Our Family Services, Center of Opportunity, Salvation Army, Pio Decimo Center, CODAC, La Frontera Arizona RAPP, Primavera Foundation, and Tucson Pima Collaboration to End Homelessness. While most services are based in Tucson, they serve the entire county including Ajo.",
+      "languageSupport": "English, Spanish (varies by agency)"
+    },
+    {
+      "name": "Pima County Homeless Services Division",
+      "description": "A county-wide service division that provides support for individuals and families experiencing homelessness or at risk of homelessness, including outreach, prevention, emergency shelter, and housing assistance.",
+      "contactInfo": "Phone: 520-724-7300 (Monday through Friday, 8 a.m. to 5 p.m.) | Sullivan Jackson Employment Center",
+      "website": "https://www.pima.gov/3231/Office-of-Housing-Opportunities-and-Home",
+      "city": "Anegam",
+      "group": "Homeless Individuals",
+      "category": "Housing and Support Services",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness in Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no homeless services located specifically within Anegam city limits, residents can access county-wide services through the Pima County Homeless Services Division, which operates out of the Sullivan Jackson Employment Center and has served homeless households since 1989.",
+      "languageSupport": "English, Spanish, translation services available"
+    },
+    {
+      "name": "Pima County Office of Housing Opportunities and Homeless Solutions",
+      "description": "A county-wide service division that provides centralized information and coordination of services for individuals and families experiencing homelessness or at risk of homelessness in Pima County, including Marana residents.",
+      "contactInfo": "Phone: 520-724-7300 | Email: HousingOpportunities@pima.gov | Address: 115 N Church Ave, Tucson, AZ",
+      "phone": "520-724-7300",
+      "email": "HousingOpportunities@pima.gov",
+      "website": "https://www.pima.gov/3231/Office-of-Housing-Opportunities-and-Home",
+      "address": "115 N Church Ave, Tucson, AZ",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness in Pima County, including Marana residents",
+      "hours": "Monday through Friday, 8 a.m. to 5 p.m.",
+      "services": [
+        "Homeless Prevention",
+        "Homeless Outreach",
+        "Emergency Shelter",
+        "Housing Assistance",
+        "Shelter & Supportive Services"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Pima Council on Aging",
+      "description": "Pima Council on Aging (PCOA) is a nonprofit organization that provides resources, services, and advocacy for older adults in Pima County, helping them age with dignity and independence.",
+      "contactInfo": "Phone: (520) 790-7262 | Address: 600 S. Country Club Road, Tucson, AZ 85716",
+      "phone": "(520) 790-7262",
+      "website": "https://pcoa.org/",
+      "address": "600 S. Country Club Road, Tucson, AZ 85716",
+      "eligibility": "Older adults in Pima County, primarily those 60+",
+      "services": [
+        "Resource directory",
+        "Caregiver support",
+        "Home-delivered meals",
+        "Congregate meal sites",
+        "Housing assistance",
+        "Counseling",
+        "Advocacy"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Child & Family Resources",
+      "description": "Nonprofit organization providing support services for children and families in Pima County",
+      "contactInfo": "Phone: 520-783-2943 | Email: Not specified on website | Address: 2800 East Broadway Blvd., Tucson, AZ 85716",
+      "phone": "520-783-2943",
+      "email": "Not specified on website",
+      "website": "https://www.childfamilyresources.org/pima/",
+      "address": "2800 East Broadway Blvd., Tucson, AZ 85716",
+      "city": "Tucson",
+      "eligibility": "Families with children in Pima County",
+      "hours": "Monday-Friday, 8:00 AM – 5:00 PM",
+      "services": [
+        "Healthy Families program",
+        "Professional development",
+        "Childcare resources and referrals",
+        "Prevention programs",
+        "Family support services"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Primavera Foundation",
+      "description": "Primavera Foundation co-creates tangible pathways out of poverty with individuals and families. They focus on the root causes of poverty and homelessness and partner with community members to overcome barriers to safe, affordable, permanent housing.",
+      "contactInfo": "Phone: 520-293-1136",
+      "phone": "520-293-1136",
+      "website": "https://primavera.org/",
+      "city": "Tucson",
+      "services": [
+        "Emergency shelter",
+        "Affordable housing",
+        "Workforce development",
+        "Homelessness prevention",
+        "Veterans services"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Tucson Pima Collaboration to End Homelessness",
+      "description": "TPCH is a coalition of community and faith-based organizations, government entities, businesses, and individuals committed to ending homelessness in Tucson and Pima County. They coordinate services, provide resources, and work to develop solutions to homelessness throughout the region.",
+      "website": "https://tpch.net/",
+      "city": "Tucson",
+      "services": [
+        "Coordinates homeless services across Pima County",
+        "Provides resources and referrals for homeless individuals",
+        "Operates coordinated entry system for housing assistance",
+        "Offers youth homelessness resources"
+      ],
+      "contactInfo": "",
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Youth On Their Own",
+      "description": "Youth On Their Own (YOTO) supports the high school graduation and continued success of youth experiencing homelessness in Pima County. They strive to eliminate barriers to education and empower housing insecure youth to stay in school by providing financial assistance, basic human needs, guidance, and more.",
+      "contactInfo": "Phone: 520-293-1136",
+      "phone": "520-293-1136",
+      "website": "https://yoto.org/",
+      "city": "Tucson",
+      "services": [
+        "Education support for homeless youth",
+        "Financial assistance",
+        "Basic needs provision",
+        "Guidance and mentoring",
+        "Housing insecurity support"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Bread & Roses Crisis Transitional Shelter For Homeless LGBTQ+ Youth",
+      "description": "A transitional shelter program providing housing and support services for homeless young adults who identify as LGBTQ+, including case management and services that lead to self-sufficiency.",
+      "contactInfo": "Emerson Kuhn | Phone: (520) 547-6109 | Email: ekuhn@saaf.org | Address: 375 S. Euclid Ave., Tucson, AZ 85719-6644",
+      "website": "https://www.pcao.pima.gov/resources-available-to-the-homeless/",
+      "city": "Ak Chin",
+      "group": "LGBTQ+ Individuals",
+      "category": "Transitional Housing",
+      "eligibility": "Youth age 18-24 who identify as lesbian, gay, bisexual, transgender, queer, or questioning",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "Program is operated by the Southern Arizona AIDS Foundation (SAAF) and serves LGBTQ+ youth throughout Pima County, including residents of Ak Chin.",
+      "languageSupport": "English, Spanish"
+    },
+    {
+      "name": "Tucson Pima Collaboration to End Homelessness (TPCH)",
+      "description": "A county-wide resource directory and coordination system for homeless services in Pima County, providing access to emergency shelter, housing assessments, and support services for individuals experiencing homelessness.",
+      "contactInfo": "Website: https://tpch.net/ | Resource Directory: https://pima.myresourcedirectory.com/",
+      "website": "https://tpch.net/",
+      "city": "Ali Chuk",
+      "group": "Homeless Individuals",
+      "category": "Regional Resources",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness in Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no homeless shelters located within Ali Chuk city limits, residents can access services through the Tucson Pima Collaboration to End Homelessness (TPCH), which coordinates homeless services throughout Pima County. The resource directory provides information on shelter beds, housing programs, and support services.",
+      "languageSupport": "English, Spanish, and translation services available"
+    },
+    {
+      "name": "Emerge Center Against Domestic Abuse",
+      "description": "The largest provider of comprehensive domestic abuse services and programs in Southern Arizona, offering court advocacy, crisis intervention, safety planning, and support services for victims of domestic violence.",
+      "contactInfo": "Hotline (24/7): 520-795-4266 or 1-888-428-0101 | Community-based services: 520-881-7201 (Mon-Fri 8:30AM-5:00PM) | City Court Advocate: 520-837-3012 (Mon-Fri 8:00AM-4:30PM)",
+      "website": "https://www.tucsonaz.gov/Departments/Tucson-City-Court/Domestic-Violence-Court/Victim-Resources",
+      "city": "Ali Chukson",
+      "group": "Domestic Violence Victims",
+      "category": "Support Services",
+      "eligibility": "All individuals experiencing domestic abuse regardless of age, income, ethnicity, gender, sex, sexual orientation, sexual expression, ability, religion, national origin, or immigration status",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "Emerge delivers confidential, trauma-informed services via court advocates who help survivors navigate the criminal justice system, offer information about rights and options, provide emotional support, accompany survivors to court proceedings, and assist with orders of protection and safety planning. Services are available to residents throughout Pima County, including Ali Chukson.",
+      "languageSupport": "English, Spanish"
+    },
+    {
+      "name": "Sullivan Jackson Employment Center (Pima County)",
+      "description": "A county-wide employment center that helps individuals experiencing homelessness find employment and housing opportunities through job training, resume assistance, and employment placement services.",
+      "contactInfo": "Website: https://www.tucsonaz.gov/Departments/Housing-and-Community-Development/Homelessness/Resources-for-People-Experiencing-Homelessness",
+      "website": "https://www.tucsonaz.gov/Departments/Housing-and-Community-Development/Homelessness/Resources-for-People-Experiencing-Homelessness",
+      "city": "Ali Molina",
+      "group": "Homeless Individuals",
+      "category": "Housing and Employment Services",
+      "eligibility": "Individuals experiencing homelessness in Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no homeless services located specifically within Ali Molina city limits, residents can access county-wide services through the Sullivan Jackson Employment Center, which provides employment assistance and housing support for individuals experiencing homelessness throughout Pima County.",
+      "languageSupport": "English, Spanish"
+    },
+    {
+      "name": "Pima County LGBTQIA+ Community Resources",
+      "description": "A comprehensive directory of organizations, support services, and resources for LGBTQIA+ individuals in Pima County, including services accessible to Casas Adobes residents.",
+      "contactInfo": "Multiple organizations with varying contact information - See website for complete listing",
+      "website": "https://www.library.pima.gov/content/lgbtq-community-resources/",
+      "city": "Casas Adobes",
+      "group": "LGBTQ+ Individuals",
+      "category": "Community Resources",
+      "eligibility": "LGBTQIA+ individuals and allies in Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "Resources include Anti-Violence Project (AVP), Southern Arizona AIDS Foundation, Arizona Queer Archives, EON Youth Lounge, Equality Arizona, Family Pride Initiative, and many other organizations providing support, healthcare, crisis services, and community connections for LGBTQIA+ individuals throughout Pima County including Casas Adobes.",
+      "languageSupport": "English, Spanish (varies by organization)"
+    },
+    {
+      "name": "Pima County Homeless Services for Catalina",
+      "description": "While there are no homeless shelters located within Catalina city limits, residents can access homeless services and shelters in nearby Tucson and throughout Pima County.",
+      "contactInfo": "For assistance, contact Arizona 211 or visit the Pima County Coordinating Agencies for Housing and Services website",
+      "website": "https://www.library.pima.gov/content/coordinating-agencies-for-housing-and-services-in-pima-county/",
+      "city": "Catalina",
+      "group": "Homeless Individuals",
+      "category": "Regional Resources",
+      "eligibility": "Individuals experiencing homelessness or at risk of homelessness in Catalina and Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "Nearby resources include Primavera Men's Shelter, The Salvation Army Hospitality House, and The Primavera Foundation Shelter for families, all located in Tucson. Catalina residents must travel to access these services as there are no local shelters within city limits.",
+      "languageSupport": "English, Spanish (varies by agency)"
+    },
+    {
+      "name": "DomesticShelters.org Resource Directory",
+      "description": "A comprehensive online directory that helps domestic violence victims find local shelters, programs, and support services throughout Pima County and nationwide. The service provides searchable listings of shelters and programs based on location.",
+      "contactInfo": "Website: https://www.domesticshelters.org/ | National Domestic Violence Hotline: 1-800-799-7233",
+      "website": "https://www.domesticshelters.org/",
+      "city": "Chiawuli Tak",
+      "group": "Domestic Violence Victims",
+      "category": "Shelter and Support Services",
+      "eligibility": "Individuals experiencing domestic violence or abuse",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no domestic violence services located specifically within Chiawuli Tak city limits, residents can access county-wide and national services through DomesticShelters.org, which provides a searchable database of shelters and programs. The Arizona DES domestic violence resources were inaccessible at the time of processing due to website access issues.",
+      "languageSupport": "English, Spanish, and multiple other languages through hotline services"
+    },
+    {
+      "name": "Arizona DES Homeless Services for Drexel Heights",
+      "description": "State-level homeless services and resources available to Drexel Heights residents through the Arizona Department of Economic Security, including rapid rehousing, emergency shelter, homeless prevention, and street outreach programs.",
+      "contactInfo": "Call 211 for assistance or visit the Arizona DES website",
+      "website": "https://des.az.gov/homeless",
+      "city": "Drexel Heights",
+      "group": "Homeless Individuals",
+      "category": "Regional Resources",
+      "eligibility": "Individuals experiencing homelessness or at risk of homelessness in Drexel Heights and Pima County",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no homeless shelters located within Drexel Heights city limits, residents can access services through the DES Homeless Coordination Office and Pima County resources. The DES collaborates with Continuums of Care (CoC) to ensure needs are assessed and addressed throughout Arizona.",
+      "languageSupport": "English, Spanish, and multiple other languages through translation services"
+    },
+    {
+      "name": "The Lighthouse Project",
+      "description": "Provides LGBTQ+ affirming and trauma-informed supportive services for individuals experiencing housing instability. The program offers links to permanent supportive housing, case management, and other support services.",
+      "contactInfo": "1037 E. 34th St., Tucson, AZ 85713 | Phone: (520) 909-0754 | Case management: Monday-Friday | Intake: Wednesday",
+      "website": "https://www.pcao.pima.gov/resources-available-to-the-homeless/",
+      "city": "Gu Oidak",
+      "group": "Homeless Individuals",
+      "category": "LGBTQ+ Supportive Housing",
+      "eligibility": "Individuals who identify as LGBTQ+ experiencing housing instability",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no homeless services located specifically within Gu Oidak city limits, residents can access this county-wide service that provides specialized support for LGBTQ+ individuals experiencing housing instability.",
+      "languageSupport": "English, Spanish services may be available"
+    },
+    {
+      "name": "The Primavera Foundation",
+      "description": "Provides comprehensive emergency shelter and support services for individuals experiencing homelessness, including men's shelter, women's shelter (Casa Paloma), family shelter (Family Pathways), veteran services, transitional housing, and drop-in services at their Resource Center.",
+      "contactInfo": "Resource Center: 702 S. 6th Ave, Tucson, AZ 85701 | Phone: 520-623-5111",
+      "website": "https://primavera.org/emergency-services/",
+      "city": "Littletown",
+      "group": "Homeless Individuals",
+      "category": "Emergency Shelter and Support Services",
+      "eligibility": "Individuals and families experiencing homelessness in Pima County; specific programs have specific eligibility requirements",
+      "serviceArea": "County-wide (Pima)",
+      "notes": "While there are no homeless services located specifically within Littletown city limits, residents can access this county-wide service. The Resource Center is open Mondays, Wednesdays, Thursdays, and Fridays from 9 a.m. to 12:30 p.m. (closed Tuesdays, weekends, and holidays).",
+      "languageSupport": "English, Spanish services available"
+    },
+    {
+      "name": "City of Tucson Housing First Program",
+      "description": "A comprehensive program that provides street outreach, emergency shelter, housing navigation, and supportive housing services for individuals and families experiencing homelessness in Pima County, including Nolic residents.",
+      "contactInfo": "Phone: 520-791-4171 | Email: HCDAdmin@tucsonaz.gov | Address: 310 N Commerce Park Loop, Tucson, AZ 85745",
+      "phone": "520-791-4171",
+      "email": "HCDAdmin@tucsonaz.gov",
+      "website": "https://www.tucsonaz.gov/Departments/Housing-and-Community-Development/Homelessness/Housing-First",
+      "address": "310 N Commerce Park Loop, Tucson, AZ 85745",
+      "eligibility": "Individuals and families experiencing homelessness in Pima County, including Nolic residents",
+      "services": [
+        "Street Outreach",
+        "Emergency Shelter",
+        "Housing Navigation",
+        "Mobile Shower Programs",
+        "Permanent Supportive Housing"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Kino Veterans' Workforce Center",
+      "description": "A comprehensive support center for veterans that provides employment assistance, training, benefits counseling, and other essential services to help veterans and their families in Pima County, including Rillito residents.",
+      "contactInfo": "Phone: 520-724-2646 | Address: 2801 E. Ajo Way, Tucson, AZ 85714",
+      "phone": "520-724-2646",
+      "website": "https://www.pima.gov/1079/Veteran-Services",
+      "address": "2801 E. Ajo Way, Tucson, AZ 85714",
+      "eligibility": "Veterans and their families in Pima County, including Rillito residents",
+      "services": [
+        "Career Counseling and Job-Search Assistance",
+        "Benefits Counseling and Claims Assistance",
+        "Housing and Basic Needs Assistance",
+        "Adult Education and Skills Training",
+        "Peer Support and Networking"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Family Resource Center at Sahuarita Food Bank",
+      "description": "A community resource center that provides family support programs, educational activities, and food assistance for families in Sahuarita. Offers programs like Preschool Play for ages 3-5, Fun Family Fitness, and Nature Play activities.",
+      "contactInfo": "Phone: 520-771-2372 | Email: irodela@sfb-crc.org | Address: 17750 S. La Canada, Sahuarita, AZ",
+      "phone": "520-771-2372",
+      "email": "irodela@sfb-crc.org",
+      "website": "https://pimaparenting.org/organizer/family-resource-center-at-sahuarita-food-bank/",
+      "address": "17750 S. La Canada, Sahuarita, AZ",
+      "city": "Sahuarita",
+      "eligibility": "Families with children in the Sahuarita area",
+      "hours": "Varies by program",
+      "services": [
+        "Preschool Play Classes",
+        "Fun Family Fitness",
+        "Nature Play Activities",
+        "Food Bank Services",
+        "Family Support Programs"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Valley Assistance Services",
+      "description": "A nonprofit organization providing assistance for housing, utilities, financial education, and workforce training for families and seniors in the Sahuarita and Green Valley region, in addition to other health and safety programs.",
+      "contactInfo": "Phone: 520-625-5966 | Address: 3950 S. Camino del Heroe, Green Valley, AZ 85614",
+      "phone": "520-625-5966",
+      "website": "https://valleyassistanceservices.org/",
+      "address": "3950 S. Camino del Heroe, Green Valley, AZ 85614",
+      "city": "Sahuarita",
+      "eligibility": "Families and seniors in the Sahuarita and Green Valley region",
+      "services": [
+        "Housing Assistance",
+        "Utility Assistance",
+        "Financial Education",
+        "Workforce Training",
+        "Health and Safety Programs"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Pima County Youth Health Hub",
+      "description": "A resource navigation tool designed to assist youth and young adults (ages 24 and under) and their parents/caregivers in finding community resources tailored to their needs. The program connects youth with health, wellness, and safety resources throughout Pima County.",
+      "website": "https://www.pima.gov/3230/Youth-Health-Hub",
+      "eligibility": "Youth and young adults ages 24 and under, and their parents/caregivers. Anyone under 13 must have parent's permission.",
+      "services": [
+        "Resource Navigation",
+        "Health Services Referrals",
+        "Youth Wellness Support",
+        "Community Resource Connection",
+        "Age-Specific Resource Lists"
+      ],
+      "contactInfo": "",
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Pima Council on Aging (PCOA) Transportation Services",
+      "description": "Provides resources on transportation programs and volunteer services for the elderly in South Tucson and surrounding areas. Various organizations offer door-to-door rides by volunteers in the community.",
+      "contactInfo": "Phone: 520-790-7262 (Pima County on aging helpline), 520-406-6959 | Address: 8467 E. Broadway Blvd., Tucson, AZ 85710",
+      "phone": "520-790-7262 (Pima County on aging helpline), 520-406-6959",
+      "website": "https://pcoa.org/ways-we-help/directory/?cat_id=22",
+      "address": "8467 E. Broadway Blvd., Tucson, AZ 85710",
+      "city": "South Tucson",
+      "eligibility": "Elderly residents in South Tucson and surrounding areas",
+      "services": [
+        "Transportation Programs",
+        "Volunteer Ride Services",
+        "Door-to-Door Transportation",
+        "Resource Referrals"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "HSL Center of Opportunity",
+      "description": "The HSL Center of Opportunity is a collaborative homeless shelter campus in Tucson that brings together over 30 nonprofit organizations to provide comprehensive services for people experiencing homelessness. The center offers a range of services including shelter, healthcare, workforce development, and support for the journey out of homelessness.",
+      "contactInfo": "Address: 4550 S Palo Verde Rd, Tucson, AZ 85714",
+      "website": "https://centerofopportunity.org/",
+      "address": "4550 S Palo Verde Rd, Tucson, AZ 85714",
+      "city": "Tucson",
+      "eligibility": "Individuals experiencing homelessness in Tucson and Pima County",
+      "services": [
+        "Homeless Shelter",
+        "Healthcare Services",
+        "Workforce Development",
+        "Collaborative Support Services",
+        "Housing Assistance"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Community Food Bank of Southern Arizona",
+      "description": "The Community Food Bank of Southern Arizona provides food assistance, prepared meals, and emergency groceries to individuals and families in need throughout Tucson and Pima County. They offer an interactive map to find food resources by zip code or cross streets.",
+      "contactInfo": "Address: 2411 E Ft Lowell Rd, Tucson, AZ 85719",
+      "website": "https://www.communityfoodbank.org/get-help/",
+      "address": "2411 E Ft Lowell Rd, Tucson, AZ 85719",
+      "eligibility": "Individuals and families in need of food assistance in Tucson and Pima County",
+      "hours": "Tuesday: 1:00 PM - 4:00 PM, Wednesday: 1:00 PM - 4:00 PM, Thursday: 1:00 AM - 4:00 PM",
+      "services": [
+        "Emergency Food Assistance",
+        "Food Pantry",
+        "Prepared Meals",
+        "Food Resource Directory"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Department of Economic Security - Tucson",
+      "description": "The Arizona Department of Economic Security (DES) is a partner organization at the Center of Opportunity in Tucson, providing government benefits, veterans assistance, and support services for individuals experiencing homelessness. They are part of the collaborative campus approach to addressing homelessness holistically.",
+      "contactInfo": "Address: 4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "website": "https://centerofopportunity.org/",
+      "address": "4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "city": "Tucson",
+      "eligibility": "Individuals experiencing homelessness and other vulnerable populations in Tucson and Pima County",
+      "services": [
+        "Government Benefits Assistance",
+        "Veterans Support Services",
+        "Employment Assistance",
+        "Social Services Coordination",
+        "Homeless Support Programs"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "El Rio Community Health Center",
+      "description": "El Rio Community Health Center is a partner organization at the Center of Opportunity in Tucson, providing comprehensive healthcare services to individuals experiencing homelessness and other vulnerable populations. They offer medical, dental, and mental health care as part of the collaborative campus approach to addressing homelessness.",
+      "contactInfo": "Address: 4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "website": "https://centerofopportunity.org/",
+      "address": "4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "city": "Tucson",
+      "eligibility": "Individuals experiencing homelessness and other vulnerable populations in Tucson and Pima County",
+      "services": [
+        "Medical Care",
+        "Dental Care",
+        "Mental Health Services",
+        "Healthcare for Homeless",
+        "Preventive Care"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Gospel Rescue Mission",
+      "description": "Gospel Rescue Mission provides comprehensive services for individuals experiencing homelessness in Tucson, including emergency shelter, recovery programs, employment assistance, housing support, and outreach services. They are located at the Center of Opportunity, a collaborative campus with over 30 partner organizations.",
+      "contactInfo": "Phone: (520) 740-1501 | Address: 4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "phone": "(520) 740-1501",
+      "website": "https://grmtucson.com/programs/",
+      "address": "4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "city": "Tucson",
+      "eligibility": "Individuals experiencing homelessness in Tucson and Pima County",
+      "services": [
+        "Emergency Shelter",
+        "Recovery Programs",
+        "Employment Assistance",
+        "Housing Support",
+        "Outreach Services",
+        "Addiction Recovery"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "La Frontera Arizona",
+      "description": "La Frontera Arizona is a partner organization at the Center of Opportunity in Tucson, providing behavioral health services, substance abuse treatment, and mental health support for individuals experiencing homelessness and other vulnerable populations. They are part of the collaborative campus approach to addressing homelessness holistically.",
+      "contactInfo": "Address: 4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "website": "https://centerofopportunity.org/",
+      "address": "4550 S. Palo Verde Rd., Tucson, AZ 85714",
+      "city": "Tucson",
+      "eligibility": "Individuals experiencing homelessness and other vulnerable populations in Tucson and Pima County",
+      "services": [
+        "Behavioral Health Services",
+        "Substance Abuse Treatment",
+        "Mental Health Support",
+        "Crisis Intervention",
+        "Counseling Services"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Tucson Pima Collaboration to End Homelessness (TPCH) Coordinated Entry",
+      "description": "Coordinated Entry is the first step for people experiencing homelessness to obtain housing in Tucson and Pima County. TPCH provides shelter referrals, hot meal locations, eviction prevention assistance, and coordinates homeless services through their Coordinated Entry System.",
+      "contactInfo": "Email: tpch@tucsonaz.gov",
+      "email": "tpch@tucsonaz.gov",
+      "website": "https://tpch.net/urgent-help/",
+      "eligibility": "Individuals and families experiencing or at risk of homelessness in Tucson and Pima County",
+      "services": [
+        "Shelter Bed Referrals",
+        "Hot Meal Locations",
+        "Eviction Prevention",
+        "Coordinated Entry for Homeless Services",
+        "Housing Assistance"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "National Community Health Partners",
+      "description": "National Community Health Partners is a nonprofit organization that provides mental health support, peer-led groups, and suicide prevention services for veterans and their families in Pima County.",
+      "contactInfo": "Phone: (520) 795-9756 | Address: Tucson, AZ",
+      "phone": "(520) 795-9756",
+      "website": "https://www.nchponline.org/",
+      "address": "Tucson, AZ",
+      "eligibility": "Veterans and their families in Pima County",
+      "services": [
+        "Mental health support for veterans",
+        "Peer-led support groups",
+        "Suicide prevention services",
+        "Housing for Heroes program",
+        "Best Is Yet to Come program"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Youth on the Rise",
+      "description": "Youth on the Rise (YOTR) is a resource platform developed to help youth and young adults navigate services, resources, and information in Pima County, providing guidance on education, employment, housing, health services, and more.",
+      "contactInfo": "Address: Pima County, AZ",
+      "website": "https://yotr.org/",
+      "address": "Pima County, AZ",
+      "eligibility": "Youth and young adults in Pima County",
+      "services": [
+        "Resource navigation for youth",
+        "Education assistance information",
+        "Employment resources",
+        "Housing program information",
+        "Health services connections",
+        "Financial assistance guidance",
+        "Basic needs resources"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Pima Council on Aging (PCOA)",
+      "description": "Pima County's leading experts on aging well, advocacy, and unbiased information for older people and their families. Founded in 1967, PCOA was among the first aging services organizations in the nation.",
+      "contactInfo": "Phone: (520) 790-7262 | Email: help@pcoa.org | Address: 600 S Country Club, Tucson, AZ 85716",
+      "phone": "(520) 790-7262",
+      "email": "help@pcoa.org",
+      "website": "https://pcoa.org/",
+      "address": "600 S Country Club, Tucson, AZ 85716",
+      "eligibility": "Older adults in Pima County, including Kleindale area",
+      "hours": "Not specified on website",
+      "services": [
+        "Helpline for aging resources",
+        "Resource directory with over 1700 resources",
+        "Caregiver support groups",
+        "Transportation resources",
+        "Home repair assistance",
+        "In-home services coordination",
+        "Legal services referrals",
+        "Meals and nutrition programs"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Primavera Foundation",
+      "description": "The Primavera Foundation provides emergency shelter and services to individuals experiencing homelessness in Pima County, with a mission to provide pathways out of poverty.",
+      "contactInfo": "Phone: Not specified on emergency services page | Email: Not specified on emergency services page | Address: 151 W. 40th Street, Tucson, AZ 85713",
+      "phone": "Not specified on emergency services page",
+      "email": "Not specified on emergency services page",
+      "website": "https://primavera.org/emergency-services/",
+      "address": "151 W. 40th Street, Tucson, AZ 85713",
+      "eligibility": "Individuals and families experiencing homelessness in Pima County",
+      "hours": "Varies by program",
+      "services": [
+        "Men's shelter (including day shelter)",
+        "Casa Paloma (women's shelter, hospitality center and day shelter)",
+        "Family Pathways (scattered site family shelter)",
+        "Project Action for Veterans",
+        "Transitional housing",
+        "Mobile outreach to unhoused individuals"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Youth On Their Own (YOTO)",
+      "description": "Youth On Their Own supports the high school graduation and continued success of youth experiencing homelessness in Pima County, striving to eliminate barriers to education and empower housing insecure youth to stay in school.",
+      "contactInfo": "Phone: 520-293-1136 | Email: Not specified on website | Address: 2525 N Country Club Rd, Tucson, AZ 85716",
+      "phone": "520-293-1136",
+      "email": "Not specified on website",
+      "website": "https://yoto.org/",
+      "address": "2525 N Country Club Rd, Tucson, AZ 85716",
+      "eligibility": "Youth experiencing homelessness in Pima County",
+      "hours": "Not specified on website",
+      "services": [
+        "Financial assistance for students",
+        "Basic human needs support",
+        "Guidance and mentorship",
+        "Educational support services",
+        "Housing assistance resources"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Youth on the Rise (YOTR)",
+      "description": "Resource navigation and support organization for youth in Pima County",
+      "contactInfo": "Phone: Not specified on accessible page | Email: Not specified on accessible page | Address: Not specified on accessible page",
+      "phone": "Not specified on accessible page",
+      "email": "Not specified on accessible page",
+      "website": "https://yotr.org/",
+      "address": "Not specified on accessible page",
+      "eligibility": "Youth in Pima County",
+      "hours": "Not specified on accessible page",
+      "services": [
+        "Resource navigation",
+        "Education assistance",
+        "Employment services",
+        "Housing programs",
+        "Health services",
+        "Financial assistance",
+        "Basic needs support"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Picture Rocks Community Center",
+      "description": "A community center that provides youth and teen programs with discounted rates for low-income families, including after-school programs, summer recreation, and teen leadership opportunities.",
+      "contactInfo": "Phone: 520-682-7166 | Address: Picture Rocks, AZ",
+      "phone": "520-682-7166",
+      "website": "https://www.pima.gov/1290/Picture-Rocks-Community-Center",
+      "address": "Picture Rocks, AZ",
+      "eligibility": "Children ages 5-12 for after-school program; K-5th grade for summer recreation; 6th-9th grade for teen leadership; Low-income families eligible for discounted rates with proof of qualification (SNAP, Free/reduced school lunch, TANF, AHCCCS, Section 8)",
+      "hours": "Varies by program; After-School Program: School dismissal until 6 p.m.; Summer Programs: Monday-Thursday, 7:30 a.m.-5:00 p.m.",
+      "services": [
+        "Youth Summer Recreation Program",
+        "Teen Summer Leadership Program",
+        "After-School Program",
+        "Next Level: Teen Program",
+        "Discounted Programs for Low-Income Families"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Rillito Center",
+      "description": "A specialized education facility for students with high needs from preschool to age 22, providing special education services, assistive technology, and individualized learning experiences to help students reach their highest potential and develop independence.",
+      "contactInfo": "Address: Rillito, AZ",
+      "website": "https://www.amphi.com/domain/4330",
+      "address": "Rillito, AZ",
+      "city": "Rillito",
+      "eligibility": "Students with special education needs from preschool to age 22",
+      "hours": "Preschool: 8:00 AM - 12:00 PM, K-5: 8:00 AM - 2:00 PM, 6-12: 9:00 AM - 3:00 PM",
+      "services": [
+        "Special Education Services",
+        "Assistive Technology",
+        "Individualized Learning Programs",
+        "Support for High-Needs Students",
+        "Preschool through Age 22 Programs"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Disabled American Veterans (DAV) Chapter 38",
+      "description": "A veterans service organization that helps veterans navigate the VA disability claims process, securing benefits for approximately 600 area veterans. They provide free assistance with disability claims and connect veterans with healthcare resources.",
+      "contactInfo": "Email: arizonadav38@gmail.com | Address: Sahuarita Food Bank and Resource Center, Sahuarita, AZ",
+      "email": "arizonadav38@gmail.com",
+      "website": "https://www.kgun9.com/news/community-inspired-journalism/sahuarita-and-green-valley-news/sahuarita-group-helps-veterans-access-critical-benefits",
+      "address": "Sahuarita Food Bank and Resource Center, Sahuarita, AZ",
+      "city": "Sahuarita",
+      "eligibility": "Veterans in the Sahuarita and Green Valley area",
+      "services": [
+        "VA Disability Claims Assistance",
+        "Veterans Benefits Navigation",
+        "Healthcare Access Support",
+        "Veterans Service Officer Support",
+        "Free Claims Processing"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    },
+    {
+      "name": "Pima County Public Library - Teen 365 Program",
+      "description": "A library-based program that helps teens explore, create, collaborate, and succeed through makerspaces, online tools, in-person classes, and various resources.",
+      "contactInfo": "Phone: Not specified on website for specific program | Email: Not specified on website | Address: Multiple library locations throughout Pima County",
+      "phone": "Not specified on website for specific program",
+      "email": "Not specified on website",
+      "website": "https://www.library.pima.gov/teens/",
+      "address": "Multiple library locations throughout Pima County",
+      "eligibility": "Teens and tweens (ages 9-18)",
+      "hours": "Varies by library location",
+      "services": [
+        "Makerspaces for teens",
+        "Youth Health Action Team focused on mental health",
+        "In-person classes and workshops",
+        "Online tools and resources",
+        "Mentorship opportunities"
+      ],
+      "serviceArea": "County-wide (Pima)"
+    }
+  ],
+  "localResources": [
+    {
+      "name": "Catalina Foothills School District McKinney-Vento Program",
+      "description": "A comprehensive support program for homeless children and youth in the Catalina Foothills School District, providing educational stability and resources for students experiencing homelessness.",
+      "contactInfo": "Dr. Erin Matyjasik | Phone: 520-209-8081 | Special Services Department",
+      "website": "https://www.cfsd16.org/academics/student-support-services/title-ix-education-of-homeless-children-and-youth",
+      "city": "Catalina Foothills",
+      "group": "Homeless Individuals",
+      "category": "Education Support Services",
+      "eligibility": "School-age children and youth who lack a fixed, regular, and adequate nighttime residence due to loss of housing, economic hardship, or similar reason",
+      "serviceArea": "City-specific (Catalina Foothills)",
+      "notes": "Services include school enrollment assistance, transportation to school of origin, automatic enrollment in free lunch program, and connection to additional support services. The program follows the federal McKinney-Vento Homeless Education Act to ensure educational stability for homeless students.",
+      "languageSupport": "English, Spanish"
+    },
+    {
+      "name": "Poverello House of Tucson",
+      "description": "Poverello House of Tucson is a nonprofit organization providing a homelike place of welcome and a safe environment with daytime rest, food, laundry facilities, showers, and companionship for men and women experiencing homelessness.",
+      "contactInfo": "Phone: (520) 637-8916 | Address: Tucson, AZ (specific address not publicly listed for security)",
+      "phone": "(520) 637-8916",
+      "website": "https://tucsonpoverello.com/",
+      "address": "Tucson, AZ",
+      "city": "Corona de Tucson",
+      "group": "Homeless Individuals",
+      "category": "Daytime Shelter and Support Services",
+      "eligibility": "Adults experiencing homelessness",
+      "serviceArea": "Tucson metropolitan area (including Corona de Tucson)",
+      "notes": "While there are no homeless services located specifically within Corona de Tucson city limits, residents can access services in nearby Tucson. Poverello House requires advance reservation due to limited capacity (10 guests per day).",
+      "languageSupport": "English, Spanish",
+      "hours": "By reservation only, limited to 10 guests per day",
+      "services": [
+        "Daytime shelter",
+        "Food services",
+        "Shower facilities",
+        "Laundry facilities",
+        "Companionship and support"
+      ]
+    },
+    {
+      "name": "Rescued Helpers",
+      "description": "A non-profit organization serving as a lifeline for those in need, offering a range of services and resources to uplift and empower individuals facing various challenges, including those experiencing homelessness.",
+      "contactInfo": "1325 W Kleindale Rd, Tucson, AZ 85705 | Phone: +1 (520) 888-7377",
+      "website": "http://rescuedhelpers.com (Note: Website was inaccessible at time of verification)",
+      "city": "Kleindale",
+      "group": "Homeless Individuals",
+      "category": "Community Support Services",
+      "eligibility": "Individuals in need in the Tucson area",
+      "serviceArea": "Local (Kleindale/Tucson area)",
+      "notes": "This organization is physically located in Kleindale. Limited information is available as the website was inaccessible at time of verification. MapQuest description indicates they provide shelter and educational programs for those in need.",
+      "languageSupport": "English, other languages unknown"
+    },
+    {
+      "name": "Greater Littletown Human Resources Group",
+      "description": "A local community organization providing resources and support services to individuals experiencing homelessness and other vulnerable populations in the Littletown area.",
+      "contactInfo": "Phone: (520) 574-2263",
+      "website": "Not available",
+      "city": "Littletown",
+      "group": "Homeless Individuals",
+      "category": "Community Support Services",
+      "eligibility": "Residents of Littletown and surrounding areas in need of assistance",
+      "serviceArea": "Local (Littletown area)",
+      "notes": "This organization is specifically mentioned in the Tucson Arizona Homeless Shelters & Services resource list as serving the Littletown area. Limited information is available about specific programs offered.",
+      "languageSupport": "English, other languages unknown"
+    },
+    {
+      "name": "Tohono O'odham Nation Child Care Services",
+      "description": "An early care and education service provider serving low-income families in the Tohono O'odham Nation, including Pisinemo, with child care centers and various provider options for children from 6 months through age 12.",
+      "contactInfo": "Address: Pisinemo, AZ (Tohono O'odham Nation)",
+      "website": "https://www.tonation-nsn.gov/education/child-care-program/about-child-care/",
+      "address": "Pisinemo, AZ (Tohono O'odham Nation)",
+      "city": "Pisinemo",
+      "eligibility": "Low-income families with children from 6 months through age 12 in the Tohono O'odham Nation",
+      "services": [
+        "Tribal Child Care Centers",
+        "In-Home Providers",
+        "Group Home Providers",
+        "Consumer Information and Resources",
+        "Professional Development for Program Participants"
+      ],
+      "serviceArea": "City-specific (Pisinemo)"
+    },
+    {
+      "name": "Clinica Amistad",
+      "description": "A free clinic offering medical services to those who are unemployed or uninsured in South Tucson and surrounding areas. Staffed by volunteers and providers who speak Spanish, making healthcare accessible to the Spanish-speaking community.",
+      "city": "South Tucson",
+      "eligibility": "Unemployed or uninsured individuals in South Tucson and surrounding areas",
+      "services": [
+        "Free Medical Services",
+        "Spanish-Speaking Providers",
+        "Healthcare for Uninsured",
+        "Volunteer Medical Care"
+      ],
+      "contactInfo": "",
+      "serviceArea": "City-specific (South Tucson)"
+    },
+    {
+      "name": "Tucson Clinica Medica Familiar",
+      "description": "A medical clinic providing healthcare services to families in South Tucson, with a focus on serving the Spanish-speaking community and providing culturally competent care.",
+      "contactInfo": "Phone: 520-620-1200 | Address: 3770 S. 16th Ave., Tucson, AZ 85713",
+      "phone": "520-620-1200",
+      "website": "https://tucsonclinicamedicafamiliar.com/",
+      "address": "3770 S. 16th Ave., Tucson, AZ 85713",
+      "city": "South Tucson",
+      "eligibility": "All residents, with focus on Spanish-speaking families",
+      "services": [
+        "Family Medicine",
+        "Primary Care",
+        "Culturally Competent Healthcare",
+        "Spanish-Speaking Medical Services"
+      ],
+      "serviceArea": "City-specific (South Tucson)"
+    },
+    {
+      "name": "El Rio Health Center (El Pueblo, Summit)",
+      "description": "A community health center providing comprehensive healthcare services to residents of South Tucson and surrounding areas, with a focus on accessible and affordable care for underserved populations.",
+      "contactInfo": "Phone: 520-670-3909 | Address: 101 W. Irvington Rd., building 10, Tucson, AZ 85714",
+      "phone": "520-670-3909",
+      "website": "https://elrio.org",
+      "address": "101 W. Irvington Rd., building 10, Tucson, AZ 85714",
+      "city": "South Tucson",
+      "eligibility": "All residents, with sliding fee scale for uninsured and low-income patients",
+      "services": [
+        "Primary Care",
+        "Preventive Care",
+        "Chronic Disease Management",
+        "Behavioral Health Services",
+        "Resource Navigation"
+      ],
+      "serviceArea": "City-specific (South Tucson)"
+    },
+    {
+      "name": "VA Medical Center - Southern Arizona Health Care",
+      "description": "A comprehensive medical center providing healthcare services to veterans in South Tucson and surrounding areas, offering primary care, specialty services, mental health care, and other veteran-specific health programs.",
+      "contactInfo": "Phone: 520-792-1450 | Address: 3601 S. 6th Ave., Tucson, AZ 85723",
+      "phone": "520-792-1450",
+      "website": "https://www.va.gov/southern-arizona-health-care/",
+      "address": "3601 S. 6th Ave., Tucson, AZ 85723",
+      "city": "South Tucson",
+      "eligibility": "Veterans enrolled in VA healthcare system",
+      "services": [
+        "Primary Care",
+        "Specialty Services",
+        "Mental Health Care",
+        "Veterans Health Programs",
+        "Emergency Services"
+      ],
+      "serviceArea": "City-specific (South Tucson)"
+    },
+    {
+      "name": "Green Spirits Healing Veterans Retreat",
+      "description": "A healing retreat program for veterans in Three Points that helps them overcome mental health issues like PTSD and depression. The program includes building raised garden beds, plant therapy, animal connection therapy, yoga, massage therapy, and group discussions with mental health professionals.",
+      "contactInfo": "Address: VFW 10254, Three Points, AZ",
+      "address": "VFW 10254, Three Points, AZ",
+      "city": "Three Points",
+      "eligibility": "Veterans experiencing mental health issues",
+      "hours": "Periodic retreats",
+      "services": [
+        "Veterans Mental Health Support",
+        "PTSD Treatment",
+        "Therapeutic Gardening",
+        "Yoga and Massage Therapy",
+        "Group Therapy",
+        "Plant and Animal Connection Therapy"
+      ],
+      "serviceArea": "City-specific (Three Points)"
+    },
+    {
+      "name": "Three Points Veterans Memorial Park",
+      "description": "A community park honoring veterans that features baseball fields, a basketball court, playground with shade structure, picnic tables, and ramadas available for reservation. The park serves as both a recreational facility and a memorial to veterans in the Three Points area.",
+      "contactInfo": "Address: 10211 S Sasabe Hwy, Tucson, AZ 85736",
+      "website": "https://www.pima.gov/1419/Three-Points-Veterans-Memorial-Park",
+      "address": "10211 S Sasabe Hwy, Tucson, AZ 85736",
+      "city": "Three Points",
+      "eligibility": "Open to the public",
+      "hours": "Sunrise to 10 pm",
+      "services": [
+        "Recreational Facilities",
+        "Veterans Memorial",
+        "Ramada Rentals",
+        "Community Gathering Space",
+        "Sports Facilities"
+      ],
+      "serviceArea": "City-specific (Three Points)"
+    },
+    {
+      "name": "VFW Post 10254",
+      "description": "A Veterans of Foreign Wars post serving veterans and the community in Three Points. The post organizes events like Day of Service, supports veteran-owned businesses, provides health services, and runs programs like the Warriors Garden Program in partnership with Green Spirits Healing.",
+      "contactInfo": "Phone: 520-578-4286",
+      "phone": "520-578-4286",
+      "website": "https://vfwpost10254.org/",
+      "city": "Three Points",
+      "eligibility": "Veterans of foreign wars and their families",
+      "services": [
+        "Veterans Support Services",
+        "Community Events",
+        "Warriors Garden Program",
+        "Suicide Prevention Awareness",
+        "Veteran Advocacy"
+      ],
+      "serviceArea": "City-specific (Three Points)"
+    },
+    {
+      "name": "Caridad Community Kitchen",
+      "description": "Caridad Community Kitchen provides hot meals to individuals experiencing food insecurity in Tucson. They serve meals Monday through Friday from 2:00 PM to 4:00 PM.",
+      "contactInfo": "Phone: (520) 882-5641 | Address: 845 N Main Ave, Tucson, AZ 85719",
+      "phone": "(520) 882-5641",
+      "website": "https://www.communityfoodbank.org/",
+      "address": "845 N Main Ave, Tucson, AZ 85719",
+      "city": "Tucson",
+      "eligibility": "Open to the public, no ID required",
+      "hours": "Monday-Friday: 2:00 PM - 4:00 PM",
+      "services": [
+        "Hot Meals",
+        "Food Assistance",
+        "Community Dining"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "His Presence Church Arizona",
+      "description": "His Presence Church Arizona provides hot meals to individuals experiencing food insecurity in Tucson. They serve meals on the 2nd and 4th Fridays of each month.",
+      "contactInfo": "Address: 4108 E North St, Tucson, AZ",
+      "address": "4108 E North St, Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Open to the public, no ID required",
+      "hours": "2nd & 4th Fridays: 3:30 PM - 5:00 PM",
+      "services": [
+        "Hot Meals",
+        "Food Assistance",
+        "Community Dining"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Holy Family Church",
+      "description": "Holy Family Church provides hot meals to individuals experiencing food insecurity in Tucson. They serve meals on Sunday afternoons.",
+      "contactInfo": "Address: 338 W University Blvd, Tucson, AZ",
+      "address": "338 W University Blvd, Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Open to the public, no ID required",
+      "hours": "Sunday: 3:00 PM - 4:00 PM",
+      "services": [
+        "Hot Meals",
+        "Food Assistance",
+        "Community Dining"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Northminster Presbyterian Church",
+      "description": "Northminster Presbyterian Church provides hot meals to individuals experiencing food insecurity in Tucson. They serve dinner on Monday evenings.",
+      "contactInfo": "Address: 2450 E Ft Lowell, Tucson, AZ",
+      "address": "2450 E Ft Lowell, Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Open to the public, no ID required",
+      "hours": "Monday: 5:00 PM - 6:00 PM",
+      "services": [
+        "Hot Meals",
+        "Food Assistance",
+        "Community Dining"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Z-Mansion",
+      "description": "Z-Mansion provides grab & go meals for individuals experiencing food insecurity in Tucson. They serve breakfast on Sunday mornings.",
+      "contactInfo": "Address: 288 N Church Ave, Tucson, AZ",
+      "address": "288 N Church Ave, Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Open to the public, no ID required",
+      "hours": "Sunday: 8:00 AM - 9:00 AM",
+      "services": [
+        "Grab & Go Meals",
+        "Breakfast Service",
+        "Food Assistance"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Greater Vail Community ReSources",
+      "description": "Greater Vail Community ReSources is a 501(c)(3) Arizona nonprofit organization that provides emergency food assistance to families in need, meals for the home-bound, and supplemental weekend food bags for students in the Vail, Corona de Tucson, and Southeast Tucson areas.",
+      "contactInfo": "Phone: 520.338.2610 | Address: 13105 E Colossal Cave Road, Vail 85641",
+      "phone": "520.338.2610",
+      "website": "https://resourcesvail.org/",
+      "address": "13105 E Colossal Cave Road, Vail 85641",
+      "city": "Corona De Tucson",
+      "eligibility": "Residents in need in the Vail, Corona de Tucson, Rita Ranch, and Southeast Tucson areas",
+      "hours": "Tuesday: 11:00 to 2:00 & 3:00 to 5:00, Wednesday: 11:00-2:00",
+      "services": [
+        "Emergency food assistance",
+        "Meals for home-bound individuals",
+        "Weekend \"Meals to Grow\" bags for students",
+        "Thrift store (Vail Depot Thrift Store)"
+      ],
+      "serviceArea": "City-specific (Corona De Tucson)"
+    },
+    {
+      "name": "Haven Totes",
+      "description": "Haven Totes is a 100% volunteer-run nonprofit organization that provides food assistance to low-income families with children in Tucson area schools, serving over 1,000 families annually.",
+      "contactInfo": "Address: Tucson, AZ",
+      "website": "https://haventotes.org/",
+      "address": "Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Families of children in the schools served by Haven Totes",
+      "services": [
+        "Food pantry services",
+        "Nutritious food distribution",
+        "Weekend food bags for school children"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Nexus Teen Academy",
+      "description": "Nexus Teen Academy is a nonprofit organization providing residential treatment programs for teens struggling with mental health challenges, behavioral issues, and substance abuse in the Tucson area.",
+      "contactInfo": "Phone: (480) 485-3424 | Address: Tucson, AZ",
+      "phone": "(480) 485-3424",
+      "website": "https://nexusteenacademy.com/tucson-teen-drug-rehab-near-you/",
+      "address": "Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Teens struggling with mental health challenges, behavioral issues, and substance abuse",
+      "services": [
+        "Teen drug rehabilitation",
+        "Mental health treatment",
+        "Substance abuse treatment",
+        "Residential treatment programs",
+        "Behavioral health services"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "El Rio Health",
+      "description": "A community health center providing comprehensive healthcare services to the Tucson area, including specialized care for LGBTQ+ individuals with transgender health services and HIV/AIDS treatment.",
+      "contactInfo": "Phone: (520) 670-3909 | Email: info@elrio.org | Address: Multiple locations throughout Tucson, AZ",
+      "phone": "(520) 670-3909",
+      "email": "info@elrio.org",
+      "website": "https://www.elrio.org/",
+      "address": "Multiple locations throughout Tucson, AZ",
+      "city": "Tucson",
+      "eligibility": "Open to all residents of Tucson and surrounding areas",
+      "hours": "Varies by location",
+      "services": [
+        "Adult Medicine",
+        "Behavioral Health",
+        "Dental",
+        "Family Medicine",
+        "Pediatrics",
+        "LGBTQ+ specialized healthcare",
+        "Transgender health services",
+        "HIV/AIDS treatment",
+        "Fresh produce distributions (in partnership with Community Food Bank)"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Tohono O'odham Nation",
+      "description": "The official tribal government of the Tohono O'odham Nation, providing services and programs to tribal members in Gu Oidak and other communities within the reservation.",
+      "contactInfo": "Phone: Not specified on website | Email: Not specified on website | Address: P.O. Box 837, Sells, AZ 85634",
+      "phone": "Not specified on website",
+      "email": "Not specified on website",
+      "website": "https://www.tonation-nsn.gov/",
+      "address": "P.O. Box 837, Sells, AZ 85634",
+      "city": "Gu Oidak",
+      "eligibility": "Tohono O'odham tribal members",
+      "hours": "Not specified on website",
+      "services": [
+        "Tribal government services",
+        "Community programs",
+        "Cultural preservation",
+        "Economic development initiatives",
+        "Grant programs"
+      ],
+      "serviceArea": "City-specific (Gu Oidak)"
+    },
+    {
+      "name": "San Miguel Resource Center",
+      "description": "A crisis center providing support for survivors of domestic violence and sexual assault. Services include 24-hour crisis intervention, emergency shelter, counseling, legal advocacy, and personal assistance for basic needs.",
+      "contactInfo": "Phone: 970-728-5660 or Toll-free 844-816-3915 | Email: advocacy@smrcco.org | Address: PO Box 3243, Telluride, CO 81435",
+      "phone": "970-728-5660 or Toll-free 844-816-3915",
+      "email": "advocacy@smrcco.org",
+      "website": "https://smrcco.org/our-services",
+      "address": "PO Box 3243, Telluride, CO 81435",
+      "city": "San Miguel",
+      "eligibility": "Survivors of domestic violence and sexual assault",
+      "hours": "24-Hour Confidential Helpline available",
+      "services": [
+        "24-Hour Crisis Intervention",
+        "Emergency Shelter",
+        "Financial Assistance",
+        "Personal & Legal Advocacy",
+        "Counseling Services",
+        "Support Groups",
+        "Resource Referrals"
+      ],
+      "serviceArea": "City-specific (San Miguel)"
+    },
+    {
+      "name": "Santa Rosa Homelessness Solutions",
+      "description": "A city program that provides comprehensive services to address homelessness, including shelter, housing assistance, and support services. The program works through partnerships with County agencies and community organizations to implement both immediate and long-term strategies.",
+      "contactInfo": "Phone: 707-543-3311 | Email: homeless@srcity.org",
+      "phone": "707-543-3311",
+      "email": "homeless@srcity.org",
+      "website": "https://www.srcity.org/691/Homelessness-Solutions",
+      "city": "Santa Rosa",
+      "eligibility": "Individuals experiencing homelessness or at risk of becoming homeless in Santa Rosa area",
+      "services": [
+        "Shelter Assistance",
+        "Housing Assistance",
+        "Homelessness Prevention",
+        "Encampment Resolution",
+        "Resource Coordination"
+      ],
+      "serviceArea": "City-specific (Santa Rosa)"
+    },
+    {
+      "name": "Santa Rosa Junior College Student Resource Centers",
+      "description": "A college-based resource center that provides support for students, staff, and faculty experiencing homelessness or housing insecurity. Services include shower access, hygiene supplies, emergency food, coordinated entry interviews, and referrals to housing resources.",
+      "contactInfo": "Phone: 707.522.2638 | Email: studentresourcecenter@santarosa.edu | Address: Santa Rosa Campus, Santa Rosa Junior College",
+      "phone": "707.522.2638",
+      "email": "studentresourcecenter@santarosa.edu",
+      "website": "https://resources.santarosa.edu/homelessness",
+      "address": "Santa Rosa Campus, Santa Rosa Junior College",
+      "city": "Santa Rosa",
+      "eligibility": "Santa Rosa Junior College students, staff, and faculty experiencing homelessness or housing insecurity",
+      "hours": "Virtual Walk-in Hours: Mondays & Thursdays: 9am-1pm, Tuesdays & Wednesdays: 12pm-4pm",
+      "services": [
+        "Shower Access & Shower Kits",
+        "Hygiene Supplies",
+        "Coordinated Entry Interviews",
+        "Emergency Food",
+        "Warm & Wet Weather Gear",
+        "Housing Referrals",
+        "One-on-One Support"
+      ],
+      "serviceArea": "City-specific (Santa Rosa)"
+    },
+    {
+      "name": "Tohono O'odham Nation Komckud Ki: Domestic and Sexual Violence Prevention Program",
+      "description": "A tribal program providing emergency shelter, 24/7 hotline, and comprehensive services for victims of domestic and sexual violence in the Tohono O'odham Nation. Services include emergency assistance, legal support, housing services, and community education.",
+      "contactInfo": "Phone: 866-666-4889 (24/7 Hotline), 520-383-6000 (Admin) | Address: Sells, AZ",
+      "phone": "866-666-4889 (24/7 Hotline), 520-383-6000 (Admin)",
+      "website": "https://www.domesticshelters.org/help/az/sells",
+      "address": "Sells, AZ",
+      "city": "Sells",
+      "eligibility": "Victims of domestic and sexual violence in the Tohono O'odham Nation and surrounding areas",
+      "hours": "24/7 Hotline available",
+      "services": [
+        "Emergency Shelter",
+        "24/7 Hotline",
+        "Legal Assistance",
+        "Financial Assistance",
+        "Housing Services",
+        "Support Services",
+        "Children's Services",
+        "Community Education"
+      ],
+      "serviceArea": "City-specific (Sells)"
+    },
+    {
+      "name": "International Rescue Committee (IRC) - Phoenix/Tucson",
+      "description": "A nonprofit organization providing comprehensive case management in the areas of social, legal, employment, psychiatric & medical services for immigrants and refugees. They help clients rebuild their lives and achieve financial stability through various programs.",
+      "contactInfo": "Phone: (602) 816-1793 | Email: Contact through website | Address: Multiple locations in Phoenix and Tucson",
+      "phone": "(602) 816-1793",
+      "email": "Contact through website",
+      "website": "http://www.rescue.org",
+      "address": "Multiple locations in Phoenix and Tucson",
+      "city": "Tucson",
+      "eligibility": "Immigrants and refugees in Arizona",
+      "hours": "Monday-Friday, business hours",
+      "services": [
+        "Comprehensive case management",
+        "Social services",
+        "Legal assistance",
+        "Employment services",
+        "Psychiatric services",
+        "Medical services",
+        "Financial stability programs",
+        "Refugee resettlement"
+      ],
+      "serviceArea": "City-specific (Tucson)"
+    },
+    {
+      "name": "Pima Find a Ride",
+      "description": "A directory of transportation services for the general public, people with disabilities, and older adults who need access to reliable transportation in the greater Tucson region, including South Tucson.",
+      "contactInfo": "Phone: 520-792-1093 | Address: 1 E. Broadway Blvd., Suite 401, Tucson, AZ 85701",
+      "phone": "520-792-1093",
+      "website": "pimafindaride.org",
+      "address": "1 E. Broadway Blvd., Suite 401, Tucson, AZ 85701",
+      "eligibility": "General public, people with disabilities, and older adults in the greater Tucson region",
+      "services": [
+        "Transportation Directory",
+        "Accessible Transportation Services",
+        "Transportation Resources for Disabled",
+        "Transportation Resources for Elderly"
+      ],
+      "serviceArea": "Local (area to be determined)"
+    },
+    {
+      "name": "Control Alt Delete",
+      "description": "Nonprofit organization helping domestic violence victims flee abuse in Arizona",
+      "contactInfo": "Phone: Not specified on accessible page | Email: Not specified on accessible page | Address: Not specified on accessible page",
+      "phone": "Not specified on accessible page",
+      "email": "Not specified on accessible page",
+      "website": "https://dvcontrolaltdelete.org/",
+      "address": "Not specified on accessible page",
+      "eligibility": "Domestic violence victims in Arizona",
+      "hours": "Not specified on accessible page",
+      "services": [
+        "Financial assistance for immediate needs",
+        "Basic necessities for victims fleeing abuse",
+        "Wish list donations program",
+        "Support for domestic violence survivors"
+      ],
+      "serviceArea": "Local (area to be determined)"
+    },
+    {
+      "name": "International Rescue Committee (IRC)",
+      "description": "Nonprofit organization providing services for refugees, immigrants, and vulnerable populations",
+      "contactInfo": "Phone: (602) 433-2440 | Email: Not specified on accessible page | Address: 4425 West Olive Avenue #400, Glendale, AZ 85302",
+      "phone": "(602) 433-2440",
+      "email": "Not specified on accessible page",
+      "website": "https://www.rescue.org/united-states/phoenix-az",
+      "address": "4425 West Olive Avenue #400, Glendale, AZ 85302",
+      "eligibility": "Refugees, immigrants, victims of human trafficking, and other vulnerable populations",
+      "hours": "Not specified on accessible page",
+      "services": [
+        "Refugee resettlement",
+        "Immigration assistance",
+        "Education services",
+        "Employment services",
+        "Support for victims of human trafficking"
+      ],
+      "serviceArea": "Local (area to be determined)"
+    },
+    {
+      "name": "Southern Arizona Senior Pride",
+      "description": "An organization that celebrates, supports and unites LGBTQI+ older adults who are 55+ and their younger allies, providing community resources and support.",
+      "contactInfo": "Phone: Not specified on website for Kleindale location | Email: Not specified on website | Address: Not specified on website for Kleindale location",
+      "phone": "Not specified on website for Kleindale location",
+      "email": "Not specified on website",
+      "website": "Referenced on Pima County Public Library resource page",
+      "address": "Not specified on website for Kleindale location",
+      "eligibility": "LGBTQI+ older adults (55+) and their allies",
+      "hours": "Not specified on website",
+      "services": [
+        "Community events for LGBTQI+ older adults",
+        "Support groups",
+        "Advocacy",
+        "Social connections"
+      ],
+      "serviceArea": "Local (area to be determined)"
+    },
+    {
+      "name": "Family Housing Resources",
+      "description": "Family Housing Resources (FHR) is a nonprofit service organization dedicated to building a community with equal access to quality affordable housing and pathways to increased wealth and financial freedom.",
+      "contactInfo": "Address: Tucson, AZ",
+      "website": "https://fhrtucson.org/",
+      "address": "Tucson, AZ",
+      "eligibility": "Low to middle income families in the Tucson area",
+      "services": [
+        "Affordable housing support",
+        "Down payment assistance",
+        "Financial education",
+        "Housing counseling",
+        "Homeownership programs"
+      ],
+      "serviceArea": "Local (area to be determined)"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "stateWideResources": [
+    {
+      "name": "2-1-1 Arizona",
+      "description": "2-1-1 Arizona is a comprehensive information and referral service that connects individuals and families to over 8,500 local and statewide resources. The service helps people find assistance with basic needs, housing, utilities, food, healthcare, employment, and other essential services.",
+      "contactInfo": "Phone: Dial 2-1-1 within Arizona | 877-211-8661 from anywhere | Fax: 602-263-0979 | Arizona Relay: 7-1-1 or 800-367-8939 | Address: 1275 W. Washington St. Suite 210, Tempe, AZ 85288",
+      "website": "https://211arizona.org/",
+      "city": "Phoenix",
+      "group": "Low-Income Families",
+      "category": "Resource Directory",
+      "eligibility": "All Arizona residents",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Available by phone from 9 a.m. to 7 p.m. Monday through Friday. Website search available 24/7. Cannot help people in person at their office.",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition that provides support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate a 24/7 helpline and connect survivors with local services.",
+      "contactInfo": "Phone: 602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline) | Email: Contact through website form | Address: Phoenix, Arizona (serves statewide)",
+      "phone": "602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline)",
+      "email": "Contact through website form",
+      "website": "https://acesdv.org/",
+      "address": "Phoenix, Arizona (serves statewide)",
+      "eligibility": "Victims of sexual and domestic violence in Arizona",
+      "hours": "24/7 helpline; Office hours by appointment only",
+      "services": [
+        "24/7 helpline support",
+        "Connection to local domestic violence programs",
+        "Advocacy",
+        "Training and education",
+        "Public awareness campaigns"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition providing support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate the Arizona Sexual and Domestic Violence Helpline, offering multiple ways to connect with support services.",
+      "contactInfo": "Phone: 602-279-2900 (Office), 800-782-6400 (Helpline) | Email: info@acesdv.org | Address: 2800 N. Central Ave., Suite 1570, Phoenix, AZ 85004",
+      "phone": "602-279-2900 (Office), 800-782-6400 (Helpline)",
+      "email": "info@acesdv.org",
+      "website": "https://arizonasurvivors.org/",
+      "address": "2800 N. Central Ave., Suite 1570, Phoenix, AZ 85004",
+      "eligibility": "Anyone affected by sexual or domestic violence in Arizona",
+      "hours": "Helpline: Mon 8:30-5, Tues 8:30-7, Wed-Fri 8:30-5; Office hours may vary",
+      "services": [
+        "Sexual and domestic violence helpline",
+        "Crisis intervention",
+        "Safety planning",
+        "Referrals to local programs and shelters",
+        "Support for survivors",
+        "Educational resources",
+        "Advocacy"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "Statewide coalition providing support and resources for sexual and domestic violence survivors through helpline services, local program connections, and resources.",
+      "contactInfo": "Address: Statewide service",
+      "address": "Statewide service",
+      "eligibility": "Survivors of sexual and domestic violence",
+      "hours": "Mon 8:30-5, Tues 8:30-7, Wed-Fri 8:30-5",
+      "services": [
+        "Helpline support",
+        "Connection to local programs",
+        "Training and resources",
+        "Advocacy"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security",
+      "description": "State agency providing various assistance programs",
+      "contactInfo": "Website: https://des.az.gov/homeless",
+      "website": "https://des.az.gov/homeless",
+      "city": "Seligman",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Varies by program",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Distance to service centers creates access barriers",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "211 Arizona",
+      "description": "Statewide information and referral service",
+      "contactInfo": "Dial 2-1-1 | Website: https://211arizona.org/",
+      "website": "https://211arizona.org/",
+      "city": "Valentine",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Anyone seeking resources",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Phone-based service helps overcome geographic barriers",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Wildfire Arizona",
+      "description": "Coordinates Community Action Agencies",
+      "contactInfo": "Website: https://wildfireaz.org/",
+      "website": "https://wildfireaz.org/",
+      "city": "Wikieup",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Low-income individuals and families",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Limited direct services in remote areas",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Arizona Department of Economic Security Homeless Services",
+      "description": "A state agency that coordinates homeless services through federal and state funds, contracting with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona.",
+      "contactInfo": "Phone: 211",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "eligibility": "Individuals and families experiencing a housing crisis in Arizona",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach",
+        "Resource Coordination"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Health Care Cost Containment System (AHCCCS)",
+      "description": "Arizona's Medicaid agency that offers health care programs to serve Arizona residents. They provide resources for locating substance abuse treatment and opioid services throughout the state, including in Pinal County.",
+      "contactInfo": "Phone: 602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County) | Email: Contact through website | Address: 801 E. Jefferson, Phoenix, AZ 85034",
+      "phone": "602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County)",
+      "email": "Contact through website",
+      "website": "https://www.azahcccs.gov/Members/BehavioralHealthServices/OpioidUseDisorderAndTreatment/Locating_Treatment.html",
+      "address": "801 E. Jefferson, Phoenix, AZ 85034",
+      "eligibility": "Arizona residents; some services available regardless of insurance status",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM; Crisis services available 24/7",
+      "services": [
+        "Opioid treatment program directory",
+        "Substance abuse treatment referrals",
+        "Medication-assisted treatment",
+        "Crisis services",
+        "Peer and family support services"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security (DES) Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona, including Jerome.",
+      "contactInfo": "Phone: 211",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "city": "Jerome",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "hours": "Varies by program",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Veterans' Services (ADVS)",
+      "description": "State-funded agency committed to serving Arizona veterans, service members, and their families by ensuring they receive high-quality services.",
+      "contactInfo": "Phone: 866-429-8387",
+      "phone": "866-429-8387",
+      "website": "https://dvs.az.gov/",
+      "city": "Jerome",
+      "eligibility": "Arizona veterans, service members, and their families",
+      "hours": "Varies by service",
+      "services": [
+        "Benefits Assistance",
+        "State Veteran Homes",
+        "Military Family Relief Fund",
+        "Veterans' Memorial Cemeteries",
+        "Resource Connection"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Teen Lifeline",
+      "description": "Crisis line for teenagers where callers can talk to trained peer counselors about any problem or issue.",
+      "contactInfo": "Phone: 602-248-8336",
+      "phone": "602-248-8336",
+      "website": "https://teenlifeline.org/",
+      "city": "Jerome",
+      "eligibility": "Teenagers and young adults",
+      "hours": "3pm-9pm: Peer counselors; Other hours: Adult counselors",
+      "services": [
+        "Crisis Intervention",
+        "Suicide Prevention",
+        "Peer Counseling",
+        "Mental Health Support"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security - Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with not for profit and local government entities to provide homeless services throughout Arizona, including Cordes Lakes. Services include Rapid Rehousing, Emergency Shelter, Homeless Prevention, and Street Outreach.",
+      "contactInfo": "Phone: 211 | Address: Statewide service covering Cordes Lakes, AZ",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "address": "Statewide service covering Cordes Lakes, AZ",
+      "city": "Cordes Lakes",
+      "eligibility": "Individuals experiencing homelessness or at risk of becoming homeless",
+      "hours": "Varies by program, call 211 for information",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security",
+      "description": "The Arizona Department of Economic Security provides various support services for people with disabilities, seniors, and low-income families in Dewey-Humboldt. Their AZ Links program serves as Arizona's Aging and Disability Resource Center.",
+      "contactInfo": "Phone: 844-770-9500 | Address: 1789 W. Jefferson, Phoenix, AZ 85007",
+      "phone": "844-770-9500",
+      "website": "https://des.az.gov/services/disabilities/developmental-disabilities/community-resources-parents-family-members-and-caregivers/community-local-resource-locators",
+      "address": "1789 W. Jefferson, Phoenix, AZ 85007",
+      "city": "Dewey Humboldt",
+      "eligibility": "Arizona residents with disabilities, seniors, and low-income families",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM",
+      "services": [
+        "Resource Referrals",
+        "Disability Services",
+        "Aging Services",
+        "Financial Assistance"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    }
+  ],
+  "countyWideResources": [
+    {
+      "name": "A New Leaf Housing and Shelter Services",
+      "description": "A comprehensive program providing direct shelter, long-term housing, affordable housing, and support services to individuals and families experiencing or at risk of homelessness in Mesa and surrounding areas.",
+      "contactInfo": "Family Housing Hub: (877) 211-8661 | Individual Services: (877) 211-8661",
+      "website": "https://turnanewleaf.org/services/housing-and-shelter/",
+      "city": "Mesa",
+      "group": "Homeless Individuals",
+      "category": "Housing and Support Services",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "serviceArea": "County-wide (Maricopa)",
+      "notes": "Services include homeless shelters, affordable housing solutions, and rent/utility assistance. The organization provides comprehensive support to help clients regain stability and independence.",
+      "languageSupport": "English, Spanish"
+    },
+    {
+      "name": "Ability360",
+      "description": "Ability360 advocates personal responsibility by, and for, people with disabilities as a means to independence. Offers comprehensive programs including independent living skills instruction, information and referral, peer support, advocacy, home modification, and employment services.",
+      "contactInfo": "Main Office: 5025 E. Washington St., Ste. 200, Phoenix, AZ 85034 | Phone: (602) 256-2245 | Toll Free: (800) 280-2245 | Email: info@ability360.org | AZ Relay Service: 7-1-1",
+      "website": "https://ability360.org/",
+      "city": "Phoenix",
+      "group": "Seniors & Disabled",
+      "category": "Independent Living Services",
+      "eligibility": "People with disabilities in Maricopa County and surrounding areas",
+      "serviceArea": "County-wide (Maricopa)",
+      "notes": "Ability360 is a 501(c)(3) non-profit organization that began in 1977 as the Arizona Congress for Action. Services include home care, employment assistance, ADA training, and recreation through the Ability360 Sports & Fitness Center.",
+      "languageSupport": "English"
+    }
+  ],
+  "localResources": [
+    {
+      "name": "A New Leaf - Domestic Violence Services",
+      "description": "A New Leaf provides emergency shelter and comprehensive support services for victims of domestic violence in Mesa and surrounding areas, offering a safe environment and resources to help survivors rebuild their lives.",
+      "contactInfo": "Hotline: 480-890-3039 (24/7) | Toll Free: 844-723-3387 | Business: 480-969-4024 | Fax: 480-969-0039",
+      "website": "https://turnanewleaf.org/services/domestic-violence/",
+      "city": "Mesa",
+      "group": "Domestic Violence Victims",
+      "category": "Emergency Shelter",
+      "eligibility": "Victims of domestic violence and their children",
+      "serviceArea": "City-specific (Mesa) with services available to East Valley residents",
+      "notes": "Services include emergency shelter, counseling services, legal and financial assistance, housing services, support services, children's services, and community educational services. Hours of operation: Monday-Friday 8:00 am - 5:00 pm, Closed Saturday and Sunday.",
+      "languageSupport": "English, Sign language, Spanish"
+    },
+    {
+      "name": "International Rescue Committee (IRC)",
+      "description": "Nonprofit organization providing services for refugees, immigrants, vulnerable populations",
+      "contactInfo": "Phone: (602) 433-2440 | Email: Not specified on accessible page | Address: 4425 West Olive Avenue #400, Glendale, AZ 85302",
+      "phone": "(602) 433-2440",
+      "email": "Not specified on accessible page",
+      "website": "https://www.rescue.org/united-states/phoenix-az",
+      "address": "4425 West Olive Avenue #400, Glendale, AZ 85302",
+      "city": "Phoenix",
+      "eligibility": "Refugees, immigrants, victims of human trafficking, and other vulnerable populations",
+      "hours": "Not specified on accessible page",
+      "services": [
+        "Refugee resettlement",
+        "Immigration assistance",
+        "Education services",
+        "Employment services",
+        "Support for victims of human trafficking"
+      ],
+      "serviceArea": "City-specific (Phoenix)"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "stateWideResources": [
+    {
+      "name": "2-1-1 Arizona",
+      "description": "2-1-1 Arizona is a comprehensive information and referral service that connects individuals and families to over 8,500 local and statewide resources. The service helps people find assistance with basic needs, housing, utilities, food, healthcare, employment, and other essential services.",
+      "contactInfo": "Phone: Dial 2-1-1 within Arizona | 877-211-8661 from anywhere | Fax: 602-263-0979 | Arizona Relay: 7-1-1 or 800-367-8939 | Address: 1275 W. Washington St. Suite 210, Tempe, AZ 85288",
+      "website": "https://211arizona.org/",
+      "city": "Phoenix",
+      "group": "Low-Income Families",
+      "category": "Resource Directory",
+      "eligibility": "All Arizona residents",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Available by phone from 9 a.m. to 7 p.m. Monday through Friday. Website search available 24/7. Cannot help people in person at their office.",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition that provides support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate a 24/7 helpline and connect survivors with local services.",
+      "contactInfo": "Phone: 602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline) | Email: Contact through website form | Address: Phoenix, Arizona (serves statewide)",
+      "phone": "602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline)",
+      "email": "Contact through website form",
+      "website": "https://acesdv.org/",
+      "address": "Phoenix, Arizona (serves statewide)",
+      "eligibility": "Victims of sexual and domestic violence in Arizona",
+      "hours": "24/7 helpline; Office hours by appointment only",
+      "services": [
+        "24/7 helpline support",
+        "Connection to local domestic violence programs",
+        "Advocacy",
+        "Training and education",
+        "Public awareness campaigns"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition providing support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate the Arizona Sexual and Domestic Violence Helpline, offering multiple ways to connect with support services.",
+      "contactInfo": "Phone: 602-279-2900 (Office), 800-782-6400 (Helpline) | Email: info@acesdv.org | Address: 2800 N. Central Ave., Suite 1570, Phoenix, AZ 85004",
+      "phone": "602-279-2900 (Office), 800-782-6400 (Helpline)",
+      "email": "info@acesdv.org",
+      "website": "https://arizonasurvivors.org/",
+      "address": "2800 N. Central Ave., Suite 1570, Phoenix, AZ 85004",
+      "eligibility": "Anyone affected by sexual or domestic violence in Arizona",
+      "hours": "Helpline: Mon 8:30-5, Tues 8:30-7, Wed-Fri 8:30-5; Office hours may vary",
+      "services": [
+        "Sexual and domestic violence helpline",
+        "Crisis intervention",
+        "Safety planning",
+        "Referrals to local programs and shelters",
+        "Support for survivors",
+        "Educational resources",
+        "Advocacy"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "Statewide coalition providing support and resources for sexual and domestic violence survivors through helpline services, local program connections, and resources.",
+      "contactInfo": "Address: Statewide service",
+      "address": "Statewide service",
+      "eligibility": "Survivors of sexual and domestic violence",
+      "hours": "Mon 8:30-5, Tues 8:30-7, Wed-Fri 8:30-5",
+      "services": [
+        "Helpline support",
+        "Connection to local programs",
+        "Training and resources",
+        "Advocacy"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security",
+      "description": "State agency providing various assistance programs",
+      "contactInfo": "Website: https://des.az.gov/homeless",
+      "website": "https://des.az.gov/homeless",
+      "city": "Seligman",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Varies by program",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Distance to service centers creates access barriers",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "211 Arizona",
+      "description": "Statewide information and referral service",
+      "contactInfo": "Dial 2-1-1 | Website: https://211arizona.org/",
+      "website": "https://211arizona.org/",
+      "city": "Valentine",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Anyone seeking resources",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Phone-based service helps overcome geographic barriers",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Wildfire Arizona",
+      "description": "Coordinates Community Action Agencies",
+      "contactInfo": "Website: https://wildfireaz.org/",
+      "website": "https://wildfireaz.org/",
+      "city": "Wikieup",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "eligibility": "Low-income individuals and families",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Limited direct services in remote areas",
+      "languageSupport": "English/Spanish"
+    },
+    {
+      "name": "Arizona Department of Economic Security Homeless Services",
+      "description": "A state agency that coordinates homeless services through federal and state funds, contracting with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona.",
+      "contactInfo": "Phone: 211",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "eligibility": "Individuals and families experiencing a housing crisis in Arizona",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach",
+        "Resource Coordination"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Health Care Cost Containment System (AHCCCS)",
+      "description": "Arizona's Medicaid agency that offers health care programs to serve Arizona residents. They provide resources for locating substance abuse treatment and opioid services throughout the state, including in Pinal County.",
+      "contactInfo": "Phone: 602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County) | Email: Contact through website | Address: 801 E. Jefferson, Phoenix, AZ 85034",
+      "phone": "602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County)",
+      "email": "Contact through website",
+      "website": "https://www.azahcccs.gov/Members/BehavioralHealthServices/OpioidUseDisorderAndTreatment/Locating_Treatment.html",
+      "address": "801 E. Jefferson, Phoenix, AZ 85034",
+      "eligibility": "Arizona residents; some services available regardless of insurance status",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM; Crisis services available 24/7",
+      "services": [
+        "Opioid treatment program directory",
+        "Substance abuse treatment referrals",
+        "Medication-assisted treatment",
+        "Crisis services",
+        "Peer and family support services"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security (DES) Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona, including Jerome.",
+      "contactInfo": "Phone: 211",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "city": "Jerome",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "hours": "Varies by program",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Veterans' Services (ADVS)",
+      "description": "State-funded agency committed to serving Arizona veterans, service members, and their families by ensuring they receive high-quality services.",
+      "contactInfo": "Phone: 866-429-8387",
+      "phone": "866-429-8387",
+      "website": "https://dvs.az.gov/",
+      "city": "Jerome",
+      "eligibility": "Arizona veterans, service members, and their families",
+      "hours": "Varies by service",
+      "services": [
+        "Benefits Assistance",
+        "State Veteran Homes",
+        "Military Family Relief Fund",
+        "Veterans' Memorial Cemeteries",
+        "Resource Connection"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Teen Lifeline",
+      "description": "Crisis line for teenagers where callers can talk to trained peer counselors about any problem or issue.",
+      "contactInfo": "Phone: 602-248-8336",
+      "phone": "602-248-8336",
+      "website": "https://teenlifeline.org/",
+      "city": "Jerome",
+      "eligibility": "Teenagers and young adults",
+      "hours": "3pm-9pm: Peer counselors; Other hours: Adult counselors",
+      "services": [
+        "Crisis Intervention",
+        "Suicide Prevention",
+        "Peer Counseling",
+        "Mental Health Support"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security - Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with not for profit and local government entities to provide homeless services throughout Arizona, including Cordes Lakes. Services include Rapid Rehousing, Emergency Shelter, Homeless Prevention, and Street Outreach.",
+      "contactInfo": "Phone: 211 | Address: Statewide service covering Cordes Lakes, AZ",
+      "phone": "211",
+      "website": "https://des.az.gov/homeless",
+      "address": "Statewide service covering Cordes Lakes, AZ",
+      "city": "Cordes Lakes",
+      "eligibility": "Individuals experiencing homelessness or at risk of becoming homeless",
+      "hours": "Varies by program, call 211 for information",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    },
+    {
+      "name": "Arizona Department of Economic Security",
+      "description": "The Arizona Department of Economic Security provides various support services for people with disabilities, seniors, and low-income families in Dewey-Humboldt. Their AZ Links program serves as Arizona's Aging and Disability Resource Center.",
+      "contactInfo": "Phone: 844-770-9500 | Address: 1789 W. Jefferson, Phoenix, AZ 85007",
+      "phone": "844-770-9500",
+      "website": "https://des.az.gov/services/disabilities/developmental-disabilities/community-resources-parents-family-members-and-caregivers/community-local-resource-locators",
+      "address": "1789 W. Jefferson, Phoenix, AZ 85007",
+      "city": "Dewey Humboldt",
+      "eligibility": "Arizona residents with disabilities, seniors, and low-income families",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM",
+      "services": [
+        "Resource Referrals",
+        "Disability Services",
+        "Aging Services",
+        "Financial Assistance"
+      ],
+      "serviceArea": "State-wide (Arizona)"
+    }
+  ],
+  "countyWideResources": [
+    {
+      "name": "Stepping Stones Agencies",
+      "description": "Since 1980, Stepping Stones Agencies has provided 24/7/365 advocacy services, including safe shelter, to adults and children affected by domestic violence, sexual assault, and other forms of victimization in West Yavapai County, Arizona.",
+      "contactInfo": "Phone: 928-445-4673",
+      "phone": "928-445-4673",
+      "website": "https://steppingstonesaz.org/",
+      "city": "Jerome",
+      "eligibility": "Adults and children affected by domestic violence, sexual assault, and other forms of victimization",
+      "hours": "24/7/365",
+      "services": [
+        "Safe Shelter",
+        "24/7 Advocacy",
+        "Support Services",
+        "Crisis Intervention"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Prism Network",
+      "description": "Provides support and resources for the LGBTQ+ and underserved populations in Yavapai County and Northern Arizona.",
+      "contactInfo": "Address: Northern Arizona service area",
+      "address": "Northern Arizona service area",
+      "eligibility": "LGBTQ+ individuals and allies",
+      "hours": "Varies by service",
+      "services": [
+        "LGBTQ+ support",
+        "Community resources",
+        "Connection to services"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "BeConnected",
+      "description": "Connects Arizona service members, veterans, families & helpers to information, support, and resources throughout Yavapai County.",
+      "contactInfo": "Address: Serves Yavapai County",
+      "address": "Serves Yavapai County",
+      "eligibility": "Veterans, service members, and their families",
+      "hours": "Monday - Friday 8:00 AM - 5:00 PM",
+      "services": [
+        "Resources and support for veterans",
+        "Connection to services",
+        "Information and guidance"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Northern Arizona Council of Governments (NACOG)",
+      "description": "Offers rent assistance and senior services to Yavapai County residents including Clarkdale",
+      "eligibility": "Varies by program",
+      "hours": "Monday-Friday, business hours",
+      "services": [
+        "Rent assistance",
+        "Senior services",
+        "Medicare counseling",
+        "Health & wellness programs",
+        "Caregiver support",
+        "Ombudsman services"
+      ],
+      "contactInfo": "",
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Northern Arizona Council of Governments (NACOG)",
+      "description": "NACOG provides services for seniors, disabled individuals, and low-income families in Northern Arizona, including Cordes Lakes. Their Area Agency on Aging offers Medicare benefits counseling, health and wellness programs, and other support services.",
+      "contactInfo": "Phone: 1-877-521-3500 | Address: Regional service covering Yavapai County including Cordes Lakes, AZ",
+      "phone": "1-877-521-3500",
+      "website": "https://nacog.org/aaa/",
+      "address": "Regional service covering Yavapai County including Cordes Lakes, AZ",
+      "city": "Cordes Lakes",
+      "eligibility": "Seniors, disabled individuals, and low-income residents of Northern Arizona",
+      "hours": "Monday-Friday, business hours (call for specific times)",
+      "services": [
+        "Medicare Benefits Counseling",
+        "Health & Wellness Programs",
+        "Client Services",
+        "Ombudsman Services"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Prism Network",
+      "description": "A non-partisan organization that provides an umbrella of support to members, family, friends, and allies of the LGBTQ+ community in Northern Arizona, including Cordes Lakes. They offer referrals to inclusive services, support, activities, and community connections.",
+      "contactInfo": "Phone: 928-583-3514 | Address: 303 E. Gurley St., #413, Prescott, AZ 86301",
+      "phone": "928-583-3514",
+      "website": "https://www.prismaz.net",
+      "address": "303 E. Gurley St., #413, Prescott, AZ 86301",
+      "city": "Cordes Lakes",
+      "eligibility": "LGBTQ+ individuals and their families, friends, and allies in Northern Arizona",
+      "hours": "Varies by program (contact for details)",
+      "services": [
+        "Support Services",
+        "Community Connections",
+        "Resource Referrals"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Substance Abuse Treatment Centers",
+      "description": "Substance abuse treatment centers in Cordes Lakes provide essential services for individuals seeking recovery from addiction. They offer personalized care with flexible inpatient and outpatient options, utilizing evidence-based therapies and holistic approaches.",
+      "contactInfo": "Phone: 877-862-0074 | Email: info@substance-abuse-centers.com | Address: Serving Cordes Lakes, AZ 86333",
+      "phone": "877-862-0074",
+      "email": "info@substance-abuse-centers.com",
+      "website": "https://substance-abuse-treatment.com/cordes-lakes/substance-abuse-centers-near-me-cordes-lakes-az/",
+      "address": "Serving Cordes Lakes, AZ 86333",
+      "city": "Cordes Lakes",
+      "eligibility": "Individuals seeking recovery from substance abuse and addiction",
+      "hours": "24/7 helpline available",
+      "services": [
+        "Inpatient Treatment",
+        "Outpatient Treatment",
+        "Medical Detox",
+        "Therapy",
+        "Medication Management",
+        "Aftercare Planning"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Catholic Charities - Cottonwood Office",
+      "description": "Catholic Charities provides support services for individuals experiencing homelessness in Cottonwood. They offer case management, resources, local connections, and help creating plans to find permanent housing solutions.",
+      "contactInfo": "Phone: 928-634-4254 | Address: 736 N. Main St, Cottonwood, AZ 86326",
+      "phone": "928-634-4254",
+      "website": "https://www.catholiccharitiesaz.org/cottonwood/homeless",
+      "address": "736 N. Main St, Cottonwood, AZ 86326",
+      "city": "Cottonwood",
+      "eligibility": "Individuals experiencing homelessness or at risk of homelessness",
+      "hours": "Monday-Friday (call for specific hours)",
+      "services": [
+        "Case Management",
+        "Resource Referrals",
+        "Housing Assistance",
+        "Permanent Housing Solutions"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    },
+    {
+      "name": "Veterans Therapists in Dewey",
+      "description": "A network of licensed professional counselors and therapists in Dewey-Humboldt who specialize in serving veterans and military personnel. These therapists offer trauma-informed care, PTSD treatment, and other mental health services specifically tailored to veterans' needs.",
+      "contactInfo": "Phone: Various (see individual therapist listings) | Address: Various locations in Dewey-Humboldt, AZ",
+      "phone": "Various (see individual therapist listings)",
+      "website": "https://www.psychologytoday.com/us/therapists/az/dewey?category=veterans",
+      "address": "Various locations in Dewey-Humboldt, AZ",
+      "city": "Dewey Humboldt",
+      "eligibility": "Veterans, military personnel, and their families",
+      "hours": "Varies by therapist",
+      "services": [
+        "Mental Health Counseling",
+        "PTSD Treatment",
+        "Trauma Therapy",
+        "EMDR Therapy",
+        "Couples Counseling"
+      ],
+      "serviceArea": "County-wide (Yavapai)"
+    }
+  ],
+  "localResources": [
+    {
+      "name": "The Trevor Project",
+      "description": "National organization providing crisis intervention and suicide prevention services to LGBTQ young people under 25.",
+      "contactInfo": "Phone: 1-866-488-7386",
+      "phone": "1-866-488-7386",
+      "website": "https://www.thetrevorproject.org/",
+      "city": "Jerome",
+      "eligibility": "LGBTQ young people under 25",
+      "hours": "24/7",
+      "services": [
+        "Crisis Intervention",
+        "Suicide Prevention",
+        "Support Services",
+        "Text and Chat Support"
+      ],
+      "serviceArea": "City-specific (Jerome)"
+    },
+    {
+      "name": "Bagdad Community Food Bank",
+      "description": "Local food bank providing food assistance to Bagdad residents in need.",
+      "contactInfo": "Address: Bagdad, AZ",
+      "address": "Bagdad, AZ",
+      "city": "Bagdad",
+      "eligibility": "Bagdad residents in need",
+      "hours": "Contact for hours",
+      "services": [
+        "Food assistance",
+        "Community support"
+      ],
+      "serviceArea": "City-specific (Bagdad)"
+    },
+    {
+      "name": "Foothills Caring Corp",
+      "description": "Partners with Foothills Food Bank to provide home delivery of food baskets to seniors who have transportation challenges in the Black Canyon City area.",
+      "contactInfo": "Address: Serves Black Canyon City area",
+      "address": "Serves Black Canyon City area",
+      "city": "Black Canyon City",
+      "eligibility": "Seniors with transportation challenges",
+      "hours": "Contact for details",
+      "services": [
+        "Home delivery of food baskets",
+        "Senior support"
+      ],
+      "serviceArea": "City-specific (Black Canyon City)"
+    },
+    {
+      "name": "Foothills Food Bank & Resource Center",
+      "description": "Provides food assistance and resource connections to residents in Black Canyon City and surrounding areas, offering fresh food, household supplies, and limited financial support.",
+      "contactInfo": "Address: 34550 S Old Black Canyon Hwy, Black Canyon City, AZ 85324",
+      "address": "34550 S Old Black Canyon Hwy, Black Canyon City, AZ 85324",
+      "city": "Black Canyon City",
+      "eligibility": "No proof of income or citizenship required",
+      "hours": "Tue 9:00 AM-12:00 PM, Wed 3:00 PM-6:00 PM, Thu 9:00 AM-12:00 PM",
+      "services": [
+        "Food assistance",
+        "Household supplies",
+        "Personal hygiene items",
+        "Pet food",
+        "Limited financial support",
+        "Resource navigation"
+      ],
+      "serviceArea": "City-specific (Black Canyon City)"
+    },
+    {
+      "name": "Veterans of Foreign Wars (VFW) Post 1796",
+      "description": "Local VFW post serving veterans in the Black Canyon City area, providing support services, community engagement, and camaraderie for veterans.",
+      "contactInfo": "Address: 34801 S Velda Rose Rd, Black Canyon City, AZ 85324",
+      "address": "34801 S Velda Rose Rd, Black Canyon City, AZ 85324",
+      "city": "Black Canyon City",
+      "eligibility": "Veterans",
+      "hours": "Contact for hours",
+      "services": [
+        "Veteran support",
+        "Community services",
+        "Camaraderie",
+        "Resource connections"
+      ],
+      "serviceArea": "City-specific (Black Canyon City)"
+    },
+    {
+      "name": "Manzanita Outreach / Mobile Food Pantry",
+      "description": "Provides emergency food assistance to residents in Clarkdale and surrounding areas through a mobile food pantry program.",
+      "contactInfo": "Address: Saint Thomas Episcopal Church, 889 1st South Street Clarkdale, AZ 86324",
+      "address": "Saint Thomas Episcopal Church, 889 1st South Street Clarkdale, AZ 86324",
+      "city": "Clarkdale",
+      "eligibility": "Open to all in need",
+      "hours": "Second and Fourth Tuesdays of each month 2 pm to 4 pm",
+      "services": [
+        "Emergency food boxes",
+        "Fresh produce",
+        "Household supplies"
+      ],
+      "serviceArea": "City-specific (Clarkdale)"
+    },
+    {
+      "name": "Clarkdale Parks and Recreation Youth Advisor",
+      "description": "Program for teens in Clarkdale to make a difference in their community",
+      "contactInfo": "Address: Town of Clarkdale, Clarkdale, AZ 86324",
+      "address": "Town of Clarkdale, Clarkdale, AZ 86324",
+      "city": "Clarkdale",
+      "eligibility": "Teens who live in Clarkdale between the ages of 14-17",
+      "hours": "Varies by program",
+      "services": [
+        "Youth engagement",
+        "Community involvement",
+        "Leadership development"
+      ],
+      "serviceArea": "City-specific (Clarkdale)"
+    },
+    {
+      "name": "Congress Senior Citizens, Inc.",
+      "description": "Local organization providing support services to seniors in Congress",
+      "contactInfo": "Address: Congress, AZ 85332",
+      "address": "Congress, AZ 85332",
+      "city": "Congress",
+      "eligibility": "Seniors in Congress area",
+      "hours": "Varies",
+      "services": [
+        "Senior support services",
+        "Community activities",
+        "Resource referrals"
+      ],
+      "serviceArea": "City-specific (Congress)"
+    },
+    {
+      "name": "Old Town Mission - Homeless Resource Center",
+      "description": "The Homeless Resource Center at Old Town Mission provides essential services for homeless individuals and families in Cottonwood. They offer showers, meals, survival supplies, and a safe, supportive environment to help people move towards stability and self-sufficiency.",
+      "contactInfo": "Phone: 928-634-7869 | Address: 116 E Pinal St, Cottonwood, AZ 86326",
+      "phone": "928-634-7869",
+      "website": "https://www.oldtownmission.org/homeless-resource-center",
+      "address": "116 E Pinal St, Cottonwood, AZ 86326",
+      "city": "Cottonwood",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "hours": "Monday-Friday (call for specific hours)",
+      "services": [
+        "Showers",
+        "Meals",
+        "Survival Supplies",
+        "Resource Referrals",
+        "Supportive Environment"
+      ],
+      "serviceArea": "City-specific (Cottonwood)"
+    },
+    {
+      "name": "Verde Valley Sanctuary",
+      "description": "The Verde Valley Sanctuary offers a safe haven for victims of family violence and sexual assault in Cottonwood and the Verde Valley area. They provide emergency shelter, community outreach, advocacy services, and a 24-hour crisis hotline.",
+      "contactInfo": "Phone: 928-634-2511 | Address: 601 W. Mingus Ave, Cottonwood, AZ 86325",
+      "phone": "928-634-2511",
+      "website": "https://verdevalleysanctuary.org/",
+      "address": "601 W. Mingus Ave, Cottonwood, AZ 86325",
+      "city": "Cottonwood",
+      "eligibility": "Victims of domestic violence and sexual assault, and their children",
+      "hours": "24/7 Hotline: 928-634-2511 or 1-800-930-7233; Office: Monday-Friday (call for specific hours)",
+      "services": [
+        "Emergency Shelter",
+        "24-Hour Crisis Hotline",
+        "Community Based Advocacy",
+        "Safety Planning",
+        "Case Management",
+        "Support Groups"
+      ],
+      "serviceArea": "City-specific (Cottonwood)"
+    },
+    {
+      "name": "Verde Valley Homeless Coalition",
+      "description": "The Verde Valley Homeless Coalition provides services for homeless individuals in Cottonwood and the Verde Valley area. They operate a day use center and emergency overnight shelter, offering support and resources to help individuals experiencing homelessness.",
+      "contactInfo": "Phone: 928-641-4298 | Email: info@verdevalleyhomelesscoalition.com | Address: 654 N. Main Street, Cottonwood, AZ",
+      "phone": "928-641-4298",
+      "email": "info@verdevalleyhomelesscoalition.com",
+      "website": "https://verdevalleyhomelesscoalition.com/",
+      "address": "654 N. Main Street, Cottonwood, AZ",
+      "city": "Cottonwood",
+      "eligibility": "Individuals experiencing homelessness in the Verde Valley area",
+      "hours": "Call for current hours of operation",
+      "services": [
+        "Day Use Center",
+        "Emergency Overnight Shelter",
+        "Resource Referrals",
+        "Support Services"
+      ],
+      "serviceArea": "City-specific (Cottonwood)"
+    }
+  ]
+}
