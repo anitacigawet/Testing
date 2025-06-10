@@ -1,0 +1,82 @@
+{
+  "county": "Yavapai",
+  "tagline": "Yavapai County Digital Resource Hub",
+  "cities": [
+    {
+      "name": "Prescott",
+      "population": "45,827"
+    },
+    {
+      "name": "Prescott Valley",
+      "population": "46,785"
+    },
+    {
+      "name": "Cottonwood",
+      "population": "12,023"
+    },
+    {
+      "name": "Sedona",
+      "population": "10,339"
+    },
+    {
+      "name": "Camp Verde",
+      "population": "11,196"
+    },
+    {
+      "name": "Chino Valley",
+      "population": "13,020"
+    },
+    {
+      "name": "Clarkdale",
+      "population": "4,391"
+    },
+    {
+      "name": "Jerome",
+      "population": "455"
+    },
+    {
+      "name": "Dewey-Humboldt",
+      "population": "4,326"
+    },
+    {
+      "name": "Ash Fork",
+      "population": "748"
+    },
+    {
+      "name": "Bagdad",
+      "population": "1,876"
+    },
+    {
+      "name": "Black Canyon City",
+      "population": "2,837"
+    },
+    {
+      "name": "Congress",
+      "population": "1,986"
+    },
+    {
+      "name": "Cordes Lakes",
+      "population": "2,834"
+    },
+    {
+      "name": "Mayer",
+      "population": "1,497"
+    },
+    {
+      "name": "Paulden",
+      "population": "5,231"
+    },
+    {
+      "name": "Seligman",
+      "population": "456"
+    },
+    {
+      "name": "Wilhoit",
+      "population": "897"
+    },
+    {
+      "name": "Yarnell",
+      "population": "649"
+    }
+  ]
+}

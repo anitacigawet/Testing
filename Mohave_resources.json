@@ -1,0 +1,1615 @@
+{
+  "stateWideResources": [
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "2-1-1 Arizona",
+      "description": "2-1-1 Arizona is a comprehensive information and referral service that connects individuals and families to over 8,500 local and statewide resources. The service helps people find assistance with basic needs, housing, utilities, food, healthcare, employment, and other essential services.",
+      "contactInfo": "Phone: Dial 2-1-1 within Arizona | 877-211-8661 from anywhere | Fax: 602-263-0979 | Arizona Relay: 7-1-1 or 800-367-8939 | Address: 1275 W. Washington St. Suite 210, Tempe, AZ 85288",
+      "eligibility": "All Arizona residents",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Available by phone from 9 a.m. to 7 p.m. Monday through Friday. Website search available 24/7. Cannot help people in person at their office.",
+      "languageSupport": "English/Spanish",
+      "website": "https://211arizona.org/",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Homeless Individuals",
+      "category": "Resource Directory",
+      "name": "2-1-1 Arizona",
+      "description": "2-1-1 Arizona is a comprehensive information and referral service that connects individuals and families to over 8,500 local and statewide resources. The service helps people find assistance with basic needs, housing, utilities, food, healthcare, employment, and other essential services.",
+      "contactInfo": "Phone: Dial 2-1-1 within Arizona | 877-211-8661 from anywhere | Fax: 602-263-0979 | Arizona Relay: 7-1-1 or 800-367-8939 | Address: 1275 W. Washington St. Suite 210, Tempe, AZ 85288",
+      "eligibility": "All Arizona residents",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Available by phone from 9 a.m. to 7 p.m. Monday through Friday. Website search available 24/7. Cannot help people in person at their office.",
+      "languageSupport": "English/Spanish",
+      "website": "https://211arizona.org/",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Domestic Violence Victims",
+      "category": "Helpline",
+      "name": "Arizona Coalition to End Sexual and Domestic Violence Helpline",
+      "description": "The Arizona Sexual and Domestic Violence Helpline provides support, information, and referrals about sexual and domestic violence as well as assistance navigating the legal system. The helpline offers multiple contact methods including phone, chat, SMS, and email.",
+      "contactInfo": "Phone: (602) 279-2980 or (800) 782-6400 | Arizona Relay Service: 7-1-1",
+      "eligibility": "Anyone affected by sexual or domestic violence in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Hours: Monday 8:30-5, Tuesday 8:30-7, Wednesday 8:30-5, Thursday 8:30-5, Friday 8:30-5. Additional 24-hour hotlines are available through partner organizations.",
+      "languageSupport": "English/Spanish",
+      "website": "https://arizonasurvivors.org/",
+      "relevantGroups": [
+        "Domestic Violence Victims"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Arizona Attorney General Resources for Seniors",
+      "description": "A comprehensive directory of resources for seniors in Arizona, providing information on elder abuse reporting, care facilities, legal services, business licensing, and agencies offering programs for seniors.",
+      "contactInfo": "Office of the Arizona Attorney General: (602) 542-2124 | Email: seniorabuse@azag.gov | Adult Protective Services Hotline: (877) 767-2385 | Area Agency on Aging - 24 hour Senior HELPLINE: (602) 264-4357",
+      "eligibility": "Seniors and their caregivers or family members",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Resources include information on reporting elder abuse, evaluating senior living facilities, legal assistance, business licensing verification, and connections to various state and national agencies providing senior services. The office also offers community engagement presentations on senior-related issues.",
+      "languageSupport": "English",
+      "website": "https://www.azag.gov/issues/elder-affairs/resources-for-seniors",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Seniors & Disabled",
+      "category": "Resource Directory",
+      "name": "Arizona Attorney General Resources for Seniors",
+      "description": "A comprehensive directory of resources for seniors in Arizona, providing information on elder abuse reporting, care facilities, legal services, business licensing, and agencies offering programs for seniors.",
+      "contactInfo": "Office of the Arizona Attorney General: (602) 542-2124 | Email: seniorabuse@azag.gov | Adult Protective Services Hotline: (877) 767-2385 | Area Agency on Aging - 24 hour Senior HELPLINE: (602) 264-4357",
+      "eligibility": "Seniors and their caregivers or family members",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Resources include information on reporting elder abuse, evaluating senior living facilities, legal assistance, business licensing verification, and connections to various state and national agencies providing senior services. The office also offers community engagement presentations on senior-related issues.",
+      "languageSupport": "English",
+      "website": "https://www.azag.gov/issues/elder-affairs/resources-for-seniors",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Family Support",
+      "name": "Arizona Child Care Resource & Referral (CCR&R)",
+      "description": "Arizona Child Care Resource & Referral provides resources and support for families with young children, including help finding quality child care, parenting resources, and connections to early childhood development programs. The organization serves as a hub connecting families to various support services across Arizona.",
+      "contactInfo": "Website: https://azccrr.com/ | Find Child Care: 1-800-308-9000",
+      "eligibility": "Arizona families with children, particularly those with children from birth to age 5",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Offers connections to multiple featured organizations including Birth Through 5, Candelen, Child & Family Resources, Inc., Child Care Aware, First Things First, and Read On Arizona. Services include child care search assistance and educational resources.",
+      "languageSupport": "English/Spanish",
+      "website": "https://azccrr.com/family/family-resources",
+      "relevantGroups": [
+        "All Groups"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Veterans' Services - Resources",
+      "description": "The Arizona Department of Veterans' Services provides a comprehensive directory of resources for veterans, including information on benefits, services, and support programs. The department connects veterans with various resources including crisis support, employment assistance, healthcare services, and educational opportunities.",
+      "contactInfo": "Combat Call Center: 877-WAR-VETS (877-927-8387) | Veterans Crisis Line: 800-273-8255 | Website: https://dvs.az.gov/resources",
+      "eligibility": "Veterans, service members, and their families in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Offers resources in multiple categories including suicide prevention, women veterans services, employment assistance, and educational benefits. Also provides access to the Military Family Relief Fund and other veteran-specific programs.",
+      "languageSupport": "English",
+      "website": "https://dvs.az.gov/resources",
+      "relevantGroups": [
+        "All Groups",
+        "Veterans",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Veterans",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Veterans' Services - Resources",
+      "description": "The Arizona Department of Veterans' Services provides a comprehensive directory of resources for veterans, including information on benefits, services, and support programs. The department connects veterans with various resources including crisis support, employment assistance, healthcare services, and educational opportunities.",
+      "contactInfo": "Combat Call Center: 877-WAR-VETS (877-927-8387) | Veterans Crisis Line: 800-273-8255 | Website: https://dvs.az.gov/resources",
+      "eligibility": "Veterans, service members, and their families in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Offers resources in multiple categories including suicide prevention, women veterans services, employment assistance, and educational benefits. Also provides access to the Military Family Relief Fund and other veteran-specific programs.",
+      "languageSupport": "English",
+      "website": "https://dvs.az.gov/resources",
+      "relevantGroups": [
+        "All Groups",
+        "Veterans",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Youth & At-Risk Teens",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Veterans' Services - Resources",
+      "description": "The Arizona Department of Veterans' Services provides a comprehensive directory of resources for veterans, including information on benefits, services, and support programs. The department connects veterans with various resources including crisis support, employment assistance, healthcare services, and educational opportunities.",
+      "contactInfo": "Combat Call Center: 877-WAR-VETS (877-927-8387) | Veterans Crisis Line: 800-273-8255 | Website: https://dvs.az.gov/resources",
+      "eligibility": "Veterans, service members, and their families in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Offers resources in multiple categories including suicide prevention, women veterans services, employment assistance, and educational benefits. Also provides access to the Military Family Relief Fund and other veteran-specific programs.",
+      "languageSupport": "English",
+      "website": "https://dvs.az.gov/resources",
+      "relevantGroups": [
+        "All Groups",
+        "Veterans",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Coordination",
+      "name": "Arizona Statewide Independent Living Council (AZSILC)",
+      "description": "A 501(c)(3) nonprofit corporation that facilitates systemic changes to promote equality, inclusion, and choice for people with disabilities. Works strategically to strengthen and enhance the delivery of Independent Living programs, services, and concepts across Arizona.",
+      "contactInfo": "10720 W. Indian School Rd, Ste 19 #1006, Phoenix, AZ 85037 | Phone: (602) 262-2900 | Fax: (602) 271-4100",
+      "eligibility": "Does not provide direct services to individuals; serves as a coordinating body for independent living resources across Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "AZSILC promotes resources, opportunities, and experiences which empower people with disabilities to live independently. They gather public input and cultivate relationships and partnerships to maximize outcomes for people with disabilities.",
+      "languageSupport": "English",
+      "website": "https://azsilc.org/",
+      "relevantGroups": [
+        "All Groups"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Child Safety Youth Resources",
+      "description": "A comprehensive directory of resources for youth currently in or formerly in foster care, providing support for education, housing, advocacy, and successful transition to adulthood.",
+      "contactInfo": "Email: YouthServices@azdcs.gov | Youth Empowerment Council: DCSYEC@azdcs.gov",
+      "eligibility": "Young people currently experiencing foster care, as well as youth who formerly experienced foster care (especially ages 16-21)",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Resources include advocacy services through DCS Youth Advocates, Youth Empowerment Council participation, community-based housing options, financial literacy support, and connections to various helplines and community organizations. The program also provides information on resolving complaints, understanding foster youth rights, and accessing community-based support for employment, healthy relationships, and LGBTQ resources.",
+      "languageSupport": "English, additional languages may be available through specific programs",
+      "website": "https://dcs.az.gov/yap/resources-youth",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Homeless Individuals",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Child Safety Youth Resources",
+      "description": "A comprehensive directory of resources for youth currently in or formerly in foster care, providing support for education, housing, advocacy, and successful transition to adulthood.",
+      "contactInfo": "Email: YouthServices@azdcs.gov | Youth Empowerment Council: DCSYEC@azdcs.gov",
+      "eligibility": "Young people currently experiencing foster care, as well as youth who formerly experienced foster care (especially ages 16-21)",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Resources include advocacy services through DCS Youth Advocates, Youth Empowerment Council participation, community-based housing options, financial literacy support, and connections to various helplines and community organizations. The program also provides information on resolving complaints, understanding foster youth rights, and accessing community-based support for employment, healthy relationships, and LGBTQ resources.",
+      "languageSupport": "English, additional languages may be available through specific programs",
+      "website": "https://dcs.az.gov/yap/resources-youth",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Youth & At-Risk Teens",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Child Safety Youth Resources",
+      "description": "A comprehensive directory of resources for youth currently in or formerly in foster care, providing support for education, housing, advocacy, and successful transition to adulthood.",
+      "contactInfo": "Email: YouthServices@azdcs.gov | Youth Empowerment Council: DCSYEC@azdcs.gov",
+      "eligibility": "Young people currently experiencing foster care, as well as youth who formerly experienced foster care (especially ages 16-21)",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Resources include advocacy services through DCS Youth Advocates, Youth Empowerment Council participation, community-based housing options, financial literacy support, and connections to various helplines and community organizations. The program also provides information on resolving complaints, understanding foster youth rights, and accessing community-based support for employment, healthy relationships, and LGBTQ resources.",
+      "languageSupport": "English, additional languages may be available through specific programs",
+      "website": "https://dcs.az.gov/yap/resources-youth",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Economic Security - Community Resources",
+      "description": "The Arizona Department of Economic Security provides a comprehensive directory of community resources for low-income families, including assistance programs for food, housing, healthcare, employment, and other basic needs. The directory includes links to various state and federal programs as well as nonprofit organizations.",
+      "contactInfo": "Arizona Department of Economic Security | https://des.az.gov/services/child-and-family/community-resources",
+      "eligibility": "Arizona residents seeking assistance with basic needs",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The DES Community Resources page contains links to external websites that provide various types of assistance. Users can download the Arizona Resource List or filter resources by category to find specific types of help.",
+      "languageSupport": "English/Spanish/Multiple languages through website translation",
+      "website": "https://des.az.gov/services/child-and-family/community-resources",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Homeless Individuals",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Economic Security - Community Resources",
+      "description": "The Arizona Department of Economic Security provides a comprehensive directory of community resources for low-income families, including assistance programs for food, housing, healthcare, employment, and other basic needs. The directory includes links to various state and federal programs as well as nonprofit organizations.",
+      "contactInfo": "Arizona Department of Economic Security | https://des.az.gov/services/child-and-family/community-resources",
+      "eligibility": "Arizona residents seeking assistance with basic needs",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The DES Community Resources page contains links to external websites that provide various types of assistance. Users can download the Arizona Resource List or filter resources by category to find specific types of help.",
+      "languageSupport": "English/Spanish/Multiple languages through website translation",
+      "website": "https://des.az.gov/services/child-and-family/community-resources",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Low-Income Families",
+      "category": "Resource Directory",
+      "name": "Arizona Department of Economic Security - Community Resources",
+      "description": "The Arizona Department of Economic Security provides a comprehensive directory of community resources for low-income families, including assistance programs for food, housing, healthcare, employment, and other basic needs. The directory includes links to various state and federal programs as well as nonprofit organizations.",
+      "contactInfo": "Arizona Department of Economic Security | https://des.az.gov/services/child-and-family/community-resources",
+      "eligibility": "Arizona residents seeking assistance with basic needs",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The DES Community Resources page contains links to external websites that provide various types of assistance. Users can download the Arizona Resource List or filter resources by category to find specific types of help.",
+      "languageSupport": "English/Spanish/Multiple languages through website translation",
+      "website": "https://des.az.gov/services/child-and-family/community-resources",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "DisabilityResources.org - Arizona Resources",
+      "description": "A comprehensive directory of disability services and resources in Arizona, covering employment services, independent living services, rehabilitation services, and more for individuals with disabilities.",
+      "contactInfo": "DisabilityResources.org website",
+      "eligibility": "Individuals with disabilities in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The directory includes information about various organizations providing services in different categories: employment services (RISE Services, What Can You Do Campaign), independent living services (AZSILC, Ability360, ASSIST to Independence), rehabilitation services (Arizona Rehabilitation Services Administration, Disability Rights Arizona), and more.",
+      "languageSupport": "English",
+      "website": "https://www.disabilityresources.org/arizona.html",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled",
+        "Substance Abuse Recovery"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Seniors & Disabled",
+      "category": "Resource Directory",
+      "name": "DisabilityResources.org - Arizona Resources",
+      "description": "A comprehensive directory of disability services and resources in Arizona, covering employment services, independent living services, rehabilitation services, and more for individuals with disabilities.",
+      "contactInfo": "DisabilityResources.org website",
+      "eligibility": "Individuals with disabilities in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The directory includes information about various organizations providing services in different categories: employment services (RISE Services, What Can You Do Campaign), independent living services (AZSILC, Ability360, ASSIST to Independence), rehabilitation services (Arizona Rehabilitation Services Administration, Disability Rights Arizona), and more.",
+      "languageSupport": "English",
+      "website": "https://www.disabilityresources.org/arizona.html",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled",
+        "Substance Abuse Recovery"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Substance Abuse Recovery",
+      "category": "Resource Directory",
+      "name": "DisabilityResources.org - Arizona Resources",
+      "description": "A comprehensive directory of disability services and resources in Arizona, covering employment services, independent living services, rehabilitation services, and more for individuals with disabilities.",
+      "contactInfo": "DisabilityResources.org website",
+      "eligibility": "Individuals with disabilities in Arizona",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The directory includes information about various organizations providing services in different categories: employment services (RISE Services, What Can You Do Campaign), independent living services (AZSILC, Ability360, ASSIST to Independence), rehabilitation services (Arizona Rehabilitation Services Administration, Disability Rights Arizona), and more.",
+      "languageSupport": "English",
+      "website": "https://www.disabilityresources.org/arizona.html",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled",
+        "Substance Abuse Recovery"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Seniors & Disabled",
+      "category": "Legal Advocacy",
+      "name": "Disability Rights Arizona",
+      "description": "The protection and advocacy agency for Arizonans with disabilities. A non-profit public interest law firm dedicated to protecting the rights of individuals with a wide range of physical, mental, psychiatric, sensory and cognitive disabilities.",
+      "contactInfo": "Phoenix Office: 5025 E. Washington St., Suite 202, Phoenix, AZ 85034 | Phone: (602) 274-6287 | Toll Free: (800) 927-2260 | Email: center@disabilityrightsaz.org",
+      "eligibility": "Individuals with disabilities in Arizona whose legal rights have been violated or who have experienced abuse or neglect",
+      "serviceArea": "State-wide (Arizona) with offices in Phoenix and Tucson",
+      "notes": "Follows an intake process to determine if a case meets criteria for services. Provides self-advocacy resources, legal representation, and education on disability rights. Does not create attorney-client relationships through initial contact.",
+      "languageSupport": "English, Spanish, American Sign Language",
+      "website": "https://disabilityrightsaz.org/",
+      "relevantGroups": [
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Disability Toolkit - Resources in Arizona",
+      "description": "A comprehensive toolkit created by Jewish Family & Children's Services (JFCS) and Gesher Disability Resources that provides information and expectations for families with a disabled child or adult who find themselves having to care for a person and don't know what to do.",
+      "contactInfo": "Jewish Family and Children's Services (JFCS) and Gesher Disability Resources (Gesher)",
+      "eligibility": "Anyone living in Arizona caring for a person with disabilities",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The toolkit addresses frequently asked questions including: what questions to ask, who to call, ALTCS/DDD options, medical services, educational alternatives, vocational rehabilitation, residential options, Social Security, ABLE accounts, and finding advocates/navigators.",
+      "languageSupport": "English",
+      "website": "https://gesherdr.org/wp-content/uploads/2024/09/Disability-Toolkit-January-2023.pdf",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Seniors & Disabled",
+      "category": "Resource Directory",
+      "name": "Disability Toolkit - Resources in Arizona",
+      "description": "A comprehensive toolkit created by Jewish Family & Children's Services (JFCS) and Gesher Disability Resources that provides information and expectations for families with a disabled child or adult who find themselves having to care for a person and don't know what to do.",
+      "contactInfo": "Jewish Family and Children's Services (JFCS) and Gesher Disability Resources (Gesher)",
+      "eligibility": "Anyone living in Arizona caring for a person with disabilities",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The toolkit addresses frequently asked questions including: what questions to ask, who to call, ALTCS/DDD options, medical services, educational alternatives, vocational rehabilitation, residential options, Social Security, ABLE accounts, and finding advocates/navigators.",
+      "languageSupport": "English",
+      "website": "https://gesherdr.org/wp-content/uploads/2024/09/Disability-Toolkit-January-2023.pdf",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "LGBTQIA+ Resources & Support - Autism Society of Greater Phoenix",
+      "description": "A comprehensive directory of LGBTQ+ resources in Phoenix and Arizona, with a focus on supporting individuals who are both autistic and LGBTQ+. Includes information on local organizations, support groups, and community services.",
+      "contactInfo": "Autism Society of Greater Phoenix",
+      "eligibility": "LGBTQ+ individuals in Phoenix and Arizona, with specific resources for those who are both autistic and LGBTQ+",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Features multiple local resources including Phoenix Pride, Equality Arizona, GLSEN-Arizona, LGBTQ Awareness Group of AZ, and one-n-ten youth services. Also provides access to the LGBTQIA+ Arizona Resource Guide created by Arizona Coalition to End Sexual Violence's Rainbow Collective.",
+      "languageSupport": "English",
+      "website": "https://phxautism.org/resources/lgbtq/",
+      "relevantGroups": [
+        "All Groups",
+        "LGBTQ+ Community"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "LGBTQ+ Community",
+      "category": "Resource Directory",
+      "name": "LGBTQIA+ Resources & Support - Autism Society of Greater Phoenix",
+      "description": "A comprehensive directory of LGBTQ+ resources in Phoenix and Arizona, with a focus on supporting individuals who are both autistic and LGBTQ+. Includes information on local organizations, support groups, and community services.",
+      "contactInfo": "Autism Society of Greater Phoenix",
+      "eligibility": "LGBTQ+ individuals in Phoenix and Arizona, with specific resources for those who are both autistic and LGBTQ+",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Features multiple local resources including Phoenix Pride, Equality Arizona, GLSEN-Arizona, LGBTQ Awareness Group of AZ, and one-n-ten youth services. Also provides access to the LGBTQIA+ Arizona Resource Guide created by Arizona Coalition to End Sexual Violence's Rainbow Collective.",
+      "languageSupport": "English",
+      "website": "https://phxautism.org/resources/lgbtq/",
+      "relevantGroups": [
+        "All Groups",
+        "LGBTQ+ Community"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Money Fit Low-Income Resources in Arizona",
+      "description": "A comprehensive directory of low-income assistance resources in Arizona, organized into four categories: Food, Housing/Utilities, Child/Family Care, and Healthcare, with detailed information about each program.",
+      "contactInfo": "Phone: (800) 432-0310 | Website: https://www.moneyfit.org/low-income/arizona-resources/",
+      "eligibility": "Low-income residents of Arizona; specific eligibility requirements vary by program",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The directory includes resources for nutrition assistance, housing support, healthcare services, and family assistance programs. Each resource includes a brief description, contact information such as phone numbers and website URLs. Money Fit also offers debt management services and financial education resources.",
+      "languageSupport": "English",
+      "website": "https://www.moneyfit.org/low-income/arizona-resources/",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Homeless Individuals",
+      "category": "Resource Directory",
+      "name": "Money Fit Low-Income Resources in Arizona",
+      "description": "A comprehensive directory of low-income assistance resources in Arizona, organized into four categories: Food, Housing/Utilities, Child/Family Care, and Healthcare, with detailed information about each program.",
+      "contactInfo": "Phone: (800) 432-0310 | Website: https://www.moneyfit.org/low-income/arizona-resources/",
+      "eligibility": "Low-income residents of Arizona; specific eligibility requirements vary by program",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The directory includes resources for nutrition assistance, housing support, healthcare services, and family assistance programs. Each resource includes a brief description, contact information such as phone numbers and website URLs. Money Fit also offers debt management services and financial education resources.",
+      "languageSupport": "English",
+      "website": "https://www.moneyfit.org/low-income/arizona-resources/",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Low-Income Families",
+      "category": "Resource Directory",
+      "name": "Money Fit Low-Income Resources in Arizona",
+      "description": "A comprehensive directory of low-income assistance resources in Arizona, organized into four categories: Food, Housing/Utilities, Child/Family Care, and Healthcare, with detailed information about each program.",
+      "contactInfo": "Phone: (800) 432-0310 | Website: https://www.moneyfit.org/low-income/arizona-resources/",
+      "eligibility": "Low-income residents of Arizona; specific eligibility requirements vary by program",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "The directory includes resources for nutrition assistance, housing support, healthcare services, and family assistance programs. Each resource includes a brief description, contact information such as phone numbers and website URLs. Money Fit also offers debt management services and financial education resources.",
+      "languageSupport": "English",
+      "website": "https://www.moneyfit.org/low-income/arizona-resources/",
+      "relevantGroups": [
+        "All Groups",
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Olmstead Rights - Arizona Disability Resources and Advocacy Organizations",
+      "description": "A comprehensive directory of disability resources and advocacy organizations in Arizona, categorized by service type and providing links to government agencies and disability rights organizations.",
+      "contactInfo": "Olmstead Rights website",
+      "eligibility": "People with disabilities in Arizona and their caregivers",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Includes information on Protection & Advocacy Organizations, Aging and Disability Resource Centers, Legal Services Organizations, Independent Living Councils, Crisis Services, Developmental Disabilities Services, Mental Health Services, Physical Disabilities Services, and more specialized resources.",
+      "languageSupport": "English",
+      "website": "https://www.olmsteadrights.org/self-helptools/advocacy-resources/item.6519-Arizona_Disability_Resources_and_Advocacy_Organizations",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Seniors & Disabled",
+      "category": "Resource Directory",
+      "name": "Olmstead Rights - Arizona Disability Resources and Advocacy Organizations",
+      "description": "A comprehensive directory of disability resources and advocacy organizations in Arizona, categorized by service type and providing links to government agencies and disability rights organizations.",
+      "contactInfo": "Olmstead Rights website",
+      "eligibility": "People with disabilities in Arizona and their caregivers",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Includes information on Protection & Advocacy Organizations, Aging and Disability Resource Centers, Legal Services Organizations, Independent Living Councils, Crisis Services, Developmental Disabilities Services, Mental Health Services, Physical Disabilities Services, and more specialized resources.",
+      "languageSupport": "English",
+      "website": "https://www.olmsteadrights.org/self-helptools/advocacy-resources/item.6519-Arizona_Disability_Resources_and_Advocacy_Organizations",
+      "relevantGroups": [
+        "All Groups",
+        "Seniors & Disabled"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "Youth & At-Risk Teens",
+      "category": "Youth Services",
+      "name": "one\u00b7n\u00b7ten",
+      "description": "A nonprofit organization dedicated to serving and assisting LGBTQ+ youth and young adults ages 11-24. Provides empowering social and service programs that promote self-expression, self-acceptance, leadership development, and healthy life choices.",
+      "contactInfo": "Downtown Youth Center in Phoenix | Website: https://onenten.org/",
+      "eligibility": "LGBTQ+ youth and young adults ages 11-24",
+      "serviceArea": "State-wide (Arizona) with locations in Phoenix, Flagstaff, Yuma, and other cities",
+      "notes": "Offers various programs including youth welcome meetings, social activities, leadership development, and safe spaces for LGBTQ+ youth to connect with peers. Also operates POND Housing for LGBTQ+ youth experiencing homelessness.",
+      "languageSupport": "English, translation services available",
+      "website": "https://onenten.org/",
+      "relevantGroups": [
+        "Youth & At-Risk Teens",
+        "LGBTQ+ Community"
+      ]
+    },
+    {
+      "city": "Phoenix",
+      "group": "LGBTQ+ Community",
+      "category": "Youth Services",
+      "name": "one\u00b7n\u00b7ten",
+      "description": "A nonprofit organization dedicated to serving and assisting LGBTQ+ youth and young adults ages 11-24. Provides empowering social and service programs that promote self-expression, self-acceptance, leadership development, and healthy life choices.",
+      "contactInfo": "Downtown Youth Center in Phoenix | Website: https://onenten.org/",
+      "eligibility": "LGBTQ+ youth and young adults ages 11-24",
+      "serviceArea": "State-wide (Arizona) with locations in Phoenix, Flagstaff, Yuma, and other cities",
+      "notes": "Offers various programs including youth welcome meetings, social activities, leadership development, and safe spaces for LGBTQ+ youth to connect with peers. Also operates POND Housing for LGBTQ+ youth experiencing homelessness.",
+      "languageSupport": "English, translation services available",
+      "website": "https://onenten.org/",
+      "relevantGroups": [
+        "Youth & At-Risk Teens",
+        "LGBTQ+ Community"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "All Groups",
+      "category": "Resource Directory",
+      "name": "Teen Lifeline Local Resources",
+      "description": "A comprehensive directory of resources for teens and families available throughout Arizona, covering topics including suicide/crisis intervention, general counseling, sexuality, runaway support, abuse/sexual assault, and pregnancy/STD services.",
+      "contactInfo": "Call/Text: 602-248-TEEN (8336) | Website: teenlifeline.org",
+      "eligibility": "Teenagers and their families",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Teen Lifeline offers a crisis line where teens can talk to trained peer counselors (ages 15-19) from 3pm-9pm daily, and to adult counselors at other times. The website provides an extensive directory of local resources organized by category, including hotlines, support services, and specialized programs for various teen issues.",
+      "languageSupport": "English",
+      "website": "https://teenlifeline.org/local-resources/",
+      "relevantGroups": [
+        "All Groups",
+        "Domestic Violence Victims",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Domestic Violence Victims",
+      "category": "Resource Directory",
+      "name": "Teen Lifeline Local Resources",
+      "description": "A comprehensive directory of resources for teens and families available throughout Arizona, covering topics including suicide/crisis intervention, general counseling, sexuality, runaway support, abuse/sexual assault, and pregnancy/STD services.",
+      "contactInfo": "Call/Text: 602-248-TEEN (8336) | Website: teenlifeline.org",
+      "eligibility": "Teenagers and their families",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Teen Lifeline offers a crisis line where teens can talk to trained peer counselors (ages 15-19) from 3pm-9pm daily, and to adult counselors at other times. The website provides an extensive directory of local resources organized by category, including hotlines, support services, and specialized programs for various teen issues.",
+      "languageSupport": "English",
+      "website": "https://teenlifeline.org/local-resources/",
+      "relevantGroups": [
+        "All Groups",
+        "Domestic Violence Victims",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "city": "Mesa",
+      "group": "Youth & At-Risk Teens",
+      "category": "Resource Directory",
+      "name": "Teen Lifeline Local Resources",
+      "description": "A comprehensive directory of resources for teens and families available throughout Arizona, covering topics including suicide/crisis intervention, general counseling, sexuality, runaway support, abuse/sexual assault, and pregnancy/STD services.",
+      "contactInfo": "Call/Text: 602-248-TEEN (8336) | Website: teenlifeline.org",
+      "eligibility": "Teenagers and their families",
+      "serviceArea": "State-wide (Arizona)",
+      "notes": "Teen Lifeline offers a crisis line where teens can talk to trained peer counselors (ages 15-19) from 3pm-9pm daily, and to adult counselors at other times. The website provides an extensive directory of local resources organized by category, including hotlines, support services, and specialized programs for various teen issues.",
+      "languageSupport": "English",
+      "website": "https://teenlifeline.org/local-resources/",
+      "relevantGroups": [
+        "All Groups",
+        "Domestic Violence Victims",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence",
+      "abbreviation": "ACESDV",
+      "website": "https://arizonasurvivors.org/",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "",
+      "county": "Maricopa",
+      "service_area": [
+        "Statewide"
+      ],
+      "groups_served": [
+        "Domestic Violence Victims",
+        "Sexual Assault Survivors"
+      ],
+      "services": [
+        "Domestic violence support",
+        "Sexual assault resources",
+        "Crisis intervention",
+        "Helpline services",
+        "Support for survivors"
+      ],
+      "description": "The Arizona Coalition to End Sexual and Domestic Violence (ACESDV) provides resources and support for survivors of domestic violence and sexual assault throughout Arizona. Their helpline connects survivors with appropriate services, and they offer crisis intervention, safety planning, and referrals to local resources.",
+      "group": "Domestic Violence Victims",
+      "category": "",
+      "contactInfo": "",
+      "eligibility": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Domestic Violence Victims",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence",
+      "abbreviation": "ACESDV",
+      "website": "https://arizonasurvivors.org/",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "",
+      "county": "Maricopa",
+      "service_area": [
+        "Statewide"
+      ],
+      "groups_served": [
+        "Domestic Violence Victims",
+        "Sexual Assault Survivors"
+      ],
+      "services": [
+        "Domestic violence support",
+        "Sexual assault resources",
+        "Crisis intervention",
+        "Helpline services",
+        "Support for survivors"
+      ],
+      "description": "The Arizona Coalition to End Sexual and Domestic Violence (ACESDV) provides resources and support for survivors of domestic violence and sexual assault throughout Arizona. Their helpline connects survivors with appropriate services, and they offer crisis intervention, safety planning, and referrals to local resources.",
+      "group": "Youth & At-Risk Teens",
+      "category": "",
+      "contactInfo": "",
+      "eligibility": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Domestic Violence Victims",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Teen Lifeline",
+      "abbreviation": "",
+      "website": "https://teenlifeline.org/",
+      "phone": "602-248-8336",
+      "email": "",
+      "address": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "",
+      "county": "Maricopa",
+      "service_area": [
+        "Statewide"
+      ],
+      "groups_served": [
+        "Youth & At-Risk Teens"
+      ],
+      "services": [
+        "Crisis intervention",
+        "Suicide prevention",
+        "Peer counseling for teens",
+        "Mental health resources",
+        "Local resource referrals"
+      ],
+      "description": "Teen Lifeline provides a safe, confidential, and crucial crisis service where teens help teens make healthy decisions. Their hotline is answered by trained peer counselors (teens 15-19) from 3pm-9pm daily, with adult counselors available during other hours. They offer crisis intervention, suicide prevention, and connections to local resources for youth throughout Arizona.",
+      "group": "Youth & At-Risk Teens",
+      "category": "",
+      "contactInfo": "",
+      "eligibility": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Catholic Charities",
+      "abbreviation": "",
+      "website": "https://www.catholiccharitiesaz.org/homeless-services",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "",
+      "county": "Maricopa",
+      "service_area": [
+        "Statewide"
+      ],
+      "groups_served": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ],
+      "services": [
+        "Emergency shelter",
+        "Transitional housing",
+        "Permanent supportive housing",
+        "Homelessness prevention",
+        "Case management"
+      ],
+      "description": "Catholic Charities provides homeless services throughout Arizona, offering emergency shelter, transitional housing, and permanent supportive housing. They work to help individuals and families experiencing homelessness find safe, stable, and affordable housing with supportive services.",
+      "group": "Homeless Individuals",
+      "category": "",
+      "contactInfo": "",
+      "eligibility": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Homeless Individuals"
+      ]
+    },
+    {
+      "name": "Arizona Coalition to End Sexual and Domestic Violence (ACESDV)",
+      "description": "A statewide coalition that provides support, resources, and advocacy for victims of sexual and domestic violence across Arizona. They operate a 24/7 helpline and connect survivors with local services.",
+      "address": "Phoenix, Arizona (serves statewide)",
+      "phone": "602-279-2980 or 1-800-782-6400 (Arizona Sexual and Domestic Violence Helpline)",
+      "email": "Contact through website form",
+      "website": "https://acesdv.org/",
+      "hours": "24/7 helpline; Office hours by appointment only",
+      "services": [
+        "24/7 helpline support",
+        "Connection to local domestic violence programs",
+        "Advocacy",
+        "Training and education",
+        "Public awareness campaigns"
+      ],
+      "eligibility": "Victims of sexual and domestic violence in Arizona",
+      "application_process": "Call helpline or contact through website",
+      "service_area": "Arizona statewide",
+      "target_group": "Domestic Violence Victims",
+      "city": "",
+      "group": "Domestic Violence Victims",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "county": "maricopa",
+      "relevantGroups": [
+        "Domestic Violence Victims"
+      ]
+    },
+    {
+      "city": "Seligman",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "name": "Arizona Department of Economic Security",
+      "description": "State agency providing various assistance programs",
+      "contactInfo": "Website: https://des.az.gov/homeless",
+      "eligibility": "Varies by program",
+      "serviceArea": "Statewide including Seligman",
+      "notes": "Distance to service centers creates access barriers",
+      "languageSupport": "English/Spanish",
+      "website": "https://des.az.gov/homeless",
+      "relevantGroups": [
+        "All Groups",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Seligman",
+      "group": "Low-Income Families",
+      "category": "Referral Services",
+      "name": "Arizona Department of Economic Security",
+      "description": "State agency providing various assistance programs",
+      "contactInfo": "Website: https://des.az.gov/homeless",
+      "eligibility": "Varies by program",
+      "serviceArea": "Statewide including Seligman",
+      "notes": "Distance to service centers creates access barriers",
+      "languageSupport": "English/Spanish",
+      "website": "https://des.az.gov/homeless",
+      "relevantGroups": [
+        "All Groups",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "city": "Valentine",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "name": "211 Arizona",
+      "description": "Statewide information and referral service",
+      "contactInfo": "Dial 2-1-1 | Website: https://211arizona.org/",
+      "eligibility": "Anyone seeking resources",
+      "serviceArea": "Statewide including Valentine",
+      "notes": "Phone-based service helps overcome geographic barriers",
+      "languageSupport": "English/Spanish",
+      "website": "https://211arizona.org/",
+      "relevantGroups": [
+        "All Groups"
+      ]
+    },
+    {
+      "city": "Wikieup",
+      "group": "Low-Income Families",
+      "category": "Referral Services",
+      "name": "Wildfire Arizona",
+      "description": "Coordinates Community Action Agencies",
+      "contactInfo": "Website: https://wildfireaz.org/",
+      "eligibility": "Low-income individuals and families",
+      "serviceArea": "Statewide including Wikieup",
+      "notes": "Limited direct services in remote areas",
+      "languageSupport": "English/Spanish",
+      "website": "https://wildfireaz.org/",
+      "relevantGroups": [
+        "Low-Income Families"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security Homeless Services",
+      "description": "A state agency that coordinates homeless services through federal and state funds, contracting with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona.",
+      "address": "",
+      "phone": "211",
+      "email": "",
+      "website": "https://des.az.gov/homeless",
+      "hours": "",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach",
+        "Resource Coordination"
+      ],
+      "eligibility": "Individuals and families experiencing a housing crisis in Arizona",
+      "application_process": "Call 211 or visit the 2-1-1 Arizona website to obtain assistance with locating shelter, affordable housing, and limited rent and utility assistance",
+      "service_area": "Statewide (Arizona)",
+      "target_group": "Homeless Individuals",
+      "city": "",
+      "group": "Homeless Individuals",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security Homeless Services",
+      "description": "A state agency that coordinates homeless services through federal and state funds, contracting with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona.",
+      "address": "",
+      "phone": "211",
+      "email": "",
+      "website": "https://des.az.gov/homeless",
+      "hours": "",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach",
+        "Resource Coordination"
+      ],
+      "eligibility": "Individuals and families experiencing a housing crisis in Arizona",
+      "application_process": "Call 211 or visit the 2-1-1 Arizona website to obtain assistance with locating shelter, affordable housing, and limited rent and utility assistance",
+      "service_area": "Statewide (Arizona)",
+      "target_group": "Homeless Individuals",
+      "city": "",
+      "group": "Homeless Individuals",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security Homeless Services",
+      "description": "A state agency that coordinates homeless services through federal and state funds, contracting with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona.",
+      "address": "",
+      "phone": "211",
+      "email": "",
+      "website": "https://des.az.gov/homeless",
+      "hours": "",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach",
+        "Resource Coordination"
+      ],
+      "eligibility": "Individuals and families experiencing a housing crisis in Arizona",
+      "application_process": "Call 211 or visit the 2-1-1 Arizona website to obtain assistance with locating shelter, affordable housing, and limited rent and utility assistance",
+      "service_area": "Statewide (Arizona)",
+      "target_group": "Homeless Individuals",
+      "city": "",
+      "group": "Homeless Individuals",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families",
+        "Youth & At-Risk Teens"
+      ]
+    },
+    {
+      "name": "Arizona Health Care Cost Containment System (AHCCCS)",
+      "description": "Arizona's Medicaid agency that offers health care programs to serve Arizona residents. They provide resources for locating substance abuse treatment and opioid services throughout the state, including in Pinal County.",
+      "address": "801 E. Jefferson, Phoenix, AZ 85034",
+      "phone": "602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County)",
+      "email": "Contact through website",
+      "website": "https://www.azahcccs.gov/Members/BehavioralHealthServices/OpioidUseDisorderAndTreatment/Locating_Treatment.html",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM; Crisis services available 24/7",
+      "services": [
+        "Opioid treatment program directory",
+        "Substance abuse treatment referrals",
+        "Medication-assisted treatment",
+        "Crisis services",
+        "Peer and family support services"
+      ],
+      "eligibility": "Arizona residents; some services available regardless of insurance status",
+      "application_process": "Varies by service; contact through website or call appropriate regional number",
+      "service_area": "Arizona statewide, with specific services for Pinal County residents",
+      "target_group": "Substance Abuse Recovery",
+      "city": "",
+      "group": "Substance Abuse Recovery",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "county": "pinal",
+      "relevantGroups": [
+        "Seniors & Disabled",
+        "Substance Abuse Recovery"
+      ]
+    },
+    {
+      "name": "Arizona Health Care Cost Containment System (AHCCCS)",
+      "description": "Arizona's Medicaid agency that offers health care programs to serve Arizona residents. They provide resources for locating substance abuse treatment and opioid services throughout the state, including in Pinal County.",
+      "address": "801 E. Jefferson, Phoenix, AZ 85034",
+      "phone": "602-417-4000 (General), 602-586-1841 or 1-800-624-3879 (Mercy Care Member Services for Pinal County)",
+      "email": "Contact through website",
+      "website": "https://www.azahcccs.gov/Members/BehavioralHealthServices/OpioidUseDisorderAndTreatment/Locating_Treatment.html",
+      "hours": "Monday-Friday, 8:00 AM - 5:00 PM; Crisis services available 24/7",
+      "services": [
+        "Opioid treatment program directory",
+        "Substance abuse treatment referrals",
+        "Medication-assisted treatment",
+        "Crisis services",
+        "Peer and family support services"
+      ],
+      "eligibility": "Arizona residents; some services available regardless of insurance status",
+      "application_process": "Varies by service; contact through website or call appropriate regional number",
+      "service_area": "Arizona statewide, with specific services for Pinal County residents",
+      "target_group": "Substance Abuse Recovery",
+      "city": "",
+      "group": "Substance Abuse Recovery",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "county": "pinal",
+      "relevantGroups": [
+        "Seniors & Disabled",
+        "Substance Abuse Recovery"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security (DES) Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona, including Jerome.",
+      "website": "https://des.az.gov/homeless",
+      "phone": "211",
+      "email": "",
+      "address": "",
+      "city": "Jerome",
+      "county": "Yavapai",
+      "state": "Arizona",
+      "zip": "86331",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "target_groups": [
+        "Homeless Individuals"
+      ],
+      "service_area": "Statewide",
+      "hours": "Varies by program",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "documents_required": "Varies by program",
+      "fees": "None",
+      "languages": "English, Spanish, translation services available",
+      "accessibility": "Varies by location",
+      "last_updated": "2025-06-05",
+      "group": "Homeless Individuals",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security (DES) Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with nonprofit and local government entities to provide rapid rehousing, emergency shelter, homeless prevention, and street outreach services throughout Arizona, including Jerome.",
+      "website": "https://des.az.gov/homeless",
+      "phone": "211",
+      "email": "",
+      "address": "",
+      "city": "Jerome",
+      "county": "Yavapai",
+      "state": "Arizona",
+      "zip": "86331",
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "target_groups": [
+        "Homeless Individuals"
+      ],
+      "service_area": "Statewide",
+      "hours": "Varies by program",
+      "eligibility": "Individuals and families experiencing homelessness or at risk of homelessness",
+      "documents_required": "Varies by program",
+      "fees": "None",
+      "languages": "English, Spanish, translation services available",
+      "accessibility": "Varies by location",
+      "last_updated": "2025-06-05",
+      "group": "Low-Income Families",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security - Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with not for profit and local government entities to provide homeless services throughout Arizona, including Cordes Lakes. Services include Rapid Rehousing, Emergency Shelter, Homeless Prevention, and Street Outreach.",
+      "website": "https://des.az.gov/homeless",
+      "phone": "211",
+      "email": "",
+      "address": "Statewide service covering Cordes Lakes, AZ",
+      "groups_served": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ],
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "eligibility": "Individuals experiencing homelessness or at risk of becoming homeless",
+      "hours": "Varies by program, call 211 for information",
+      "languages": [
+        "English",
+        "Spanish",
+        "Other languages through translation services"
+      ],
+      "service_area": "Statewide including Cordes Lakes, Yavapai County",
+      "city": "Cordes Lakes",
+      "group": "Homeless Individuals",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "county": "yavapai",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    },
+    {
+      "name": "Arizona Department of Economic Security - Homeless Services",
+      "description": "The DES Homeless Coordination Office contracts with not for profit and local government entities to provide homeless services throughout Arizona, including Cordes Lakes. Services include Rapid Rehousing, Emergency Shelter, Homeless Prevention, and Street Outreach.",
+      "website": "https://des.az.gov/homeless",
+      "phone": "211",
+      "email": "",
+      "address": "Statewide service covering Cordes Lakes, AZ",
+      "groups_served": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ],
+      "services": [
+        "Rapid Rehousing",
+        "Emergency Shelter",
+        "Homeless Prevention",
+        "Street Outreach"
+      ],
+      "eligibility": "Individuals experiencing homelessness or at risk of becoming homeless",
+      "hours": "Varies by program, call 211 for information",
+      "languages": [
+        "English",
+        "Spanish",
+        "Other languages through translation services"
+      ],
+      "service_area": "Statewide including Cordes Lakes, Yavapai County",
+      "city": "Cordes Lakes",
+      "group": "Low-Income Families",
+      "category": "",
+      "contactInfo": "",
+      "serviceArea": "",
+      "notes": "",
+      "languageSupport": "",
+      "county": "yavapai",
+      "relevantGroups": [
+        "Homeless Individuals",
+        "Low-Income Families"
+      ]
+    }
+  ],
+  "countyWideResources": [
+    {
+      "city": "Kingman",
+      "group": "Homeless Individuals",
+      "category": "Emergency Shelter",
+      "name": "Cornerstone Mission",
+      "description": "Men's emergency shelter and support services",
+      "contactInfo": "3049 Sycamore Ave., Kingman, AZ 86409 | Phone: 928-757-1535 | Email: cornerstonemissionaz@yahoo.com",
+      "eligibility": "Homeless men; intake process required",
+      "serviceArea": "Kingman/Mohave County area",
+      "notes": "Limited capacity; often at full occupancy",
+      "languageSupport": "English",
+      "website": "https://cornerstonemissionaz.com/"
+    },
+    {
+      "city": "Kingman",
+      "group": "Homeless Individuals",
+      "category": "Food Assistance",
+      "name": "Cornerstone Mission",
+      "description": "Daily meals for homeless individuals",
+      "contactInfo": "3049 Sycamore Ave., Kingman, AZ 86409 | Phone: 928-757-1535 | Email: cornerstonemissionaz@yahoo.com",
+      "eligibility": "Anyone in need",
+      "serviceArea": "Kingman/Mohave County area",
+      "notes": "Limited hours of operation",
+      "languageSupport": "English",
+      "website": "https://cornerstonemissionaz.com/"
+    },
+    {
+      "city": "Kingman",
+      "group": "Homeless Individuals",
+      "category": "Case Management",
+      "name": "Cornerstone Mission",
+      "description": "Case management and referral services",
+      "contactInfo": "3049 Sycamore Ave., Kingman, AZ 86409 | Phone: 928-757-1535 | Email: cornerstonemissionaz@yahoo.com",
+      "eligibility": "Homeless individuals",
+      "serviceArea": "Kingman/Mohave County area",
+      "notes": "Limited staff capacity",
+      "languageSupport": "English",
+      "website": "https://cornerstonemissionaz.com/"
+    },
+    {
+      "city": "Kingman",
+      "group": "Homeless Families",
+      "category": "Support Services",
+      "name": "Mohave County Community Services",
+      "description": "Housing assistance and support programs",
+      "contactInfo": "700 W. Beale Street, Kingman, AZ 86401 | Phone: 928-753-0723",
+      "eligibility": "Income eligibility requirements vary by program",
+      "serviceArea": "Mohave County",
+      "notes": "Limited funding; waiting lists common",
+      "languageSupport": "English",
+      "website": "https://www.mohave.gov/departments/community-services/"
+    },
+    {
+      "city": "Kingman",
+      "group": "Veterans",
+      "category": "Support Services",
+      "name": "Jerry Ambrose Veterans Council",
+      "description": "Support services for homeless veterans",
+      "contactInfo": "315 N. 4th Street, Kingman, AZ 86401 | Phone: 928-716-3001 | Website: javc.org",
+      "eligibility": "Veterans with proof of service",
+      "serviceArea": "Mohave County",
+      "notes": "Transportation barriers for rural veterans",
+      "languageSupport": "English",
+      "website": "https://javc.org/"
+    },
+    {
+      "city": "Oatman",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "name": "Mohave County Homeless Continuum of Care",
+      "description": "County-level coordination of homeless services",
+      "contactInfo": "Mohave County Community Services Department | Website: https://www.mohave.gov/departments/community-services/housing-community-revitalization-division/additional-grants-and-programs/homeless-continuum-of-care/",
+      "eligibility": "Homeless individuals and families in Mohave County",
+      "serviceArea": "All Mohave County including Oatman",
+      "notes": "Significant transportation barriers for Oatman residents",
+      "languageSupport": "English",
+      "website": "https://www.mohave.gov/departments/community-services/housing-community-revitalization-division/additional-grants-and-programs/homeless-continuum-of-care/"
+    },
+    {
+      "city": "Hackberry",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "name": "Mohave County Homeless Continuum of Care",
+      "description": "County-level coordination of homeless services",
+      "contactInfo": "Mohave County Community Services Department | Website: https://www.mohave.gov/departments/community-services/housing-community-revitalization-division/additional-grants-and-programs/homeless-continuum-of-care/",
+      "eligibility": "Homeless individuals and families in Mohave County",
+      "serviceArea": "All Mohave County including Hackberry",
+      "notes": "Distance to service centers creates access barriers",
+      "languageSupport": "English",
+      "website": "https://www.mohave.gov/departments/community-services/housing-community-revitalization-division/additional-grants-and-programs/homeless-continuum-of-care/"
+    },
+    {
+      "city": "Mohave County",
+      "group": "All Groups",
+      "category": "Coordination Services",
+      "name": "Mohave County Homeless Continuum of Care",
+      "description": "County-level coordination of homeless services",
+      "contactInfo": "Mohave County Community Services Department | Website: https://www.mohave.gov/departments/community-services/housing-community-revitalization-division/additional-grants-and-programs/homeless-continuum-of-care/",
+      "eligibility": "Homeless individuals and families in Mohave County",
+      "serviceArea": "All Mohave County",
+      "notes": "Geographic barriers to service access in rural areas",
+      "languageSupport": "English",
+      "website": "https://www.mohave.gov/departments/community-services/housing-community-revitalization-division/additional-grants-and-programs/homeless-continuum-of-care/"
+    },
+    {
+      "city": "Mohave County",
+      "group": "Veterans",
+      "category": "Support Services",
+      "name": "Jerry Ambrose Veterans Council",
+      "description": "Support services for homeless veterans",
+      "contactInfo": "315 N. 4th Street, Kingman, AZ 86401 | Phone: 928-716-3001 | Website: javc.org",
+      "eligibility": "Veterans with proof of service",
+      "serviceArea": "Mohave County",
+      "notes": "Transportation barriers for rural veterans",
+      "languageSupport": "English",
+      "website": "https://javc.org/"
+    }
+  ],
+  "localResources": [
+    {
+      "city": "Kingman",
+      "group": "Low-Income Families",
+      "category": "Economic Empowerment",
+      "name": "Mohave Workforce Development Board",
+      "description": "Job training and employment services",
+      "contactInfo": "700 W. Beale Street, Kingman, AZ 86401 | Phone: 928-753-0737",
+      "eligibility": "Income < 200% of poverty line",
+      "serviceArea": "Kingman area",
+      "notes": "High demand for skilled labor",
+      "languageSupport": "English",
+      "website": "https://www.mohave.gov/departments/community-services/"
+    },
+    {
+      "city": "Lake Havasu City",
+      "group": "Homeless Individuals",
+      "category": "Emergency Services",
+      "name": "The Salvation Army - Lake Havasu City Corps",
+      "description": "Emergency assistance and referrals",
+      "contactInfo": "2049 Swanson Avenue, Lake Havasu City, AZ 86403 | Phone: 928-680-3690",
+      "eligibility": "Anyone in need",
+      "serviceArea": "Lake Havasu City area",
+      "notes": "Limited shelter options; primarily referral-based",
+      "languageSupport": "English",
+      "website": "https://lakehavasucity.salvationarmy.org/"
+    },
+    {
+      "city": "Lake Havasu City",
+      "group": "Homeless Individuals",
+      "category": "Food Assistance",
+      "name": "Havasu Community Health Foundation - Food Bank",
+      "description": "Food assistance for individuals and families",
+      "contactInfo": "94 Acoma Blvd. S., Lake Havasu City, AZ 86403 | Phone: 928-453-8190",
+      "eligibility": "Anyone in need",
+      "serviceArea": "Lake Havasu City area",
+      "notes": "Limited hours of operation",
+      "languageSupport": "English",
+      "website": "https://www.havasucommunityhealth.org/"
+    },
+    {
+      "city": "Lake Havasu City",
+      "group": "Homeless Individuals",
+      "category": "Support Services",
+      "name": "Havasu Hope",
+      "description": "Outreach services for homeless individuals",
+      "contactInfo": "Website: https://clothesclosetlhc.org/havasu-hope/ | Phone: 928-680-0029",
+      "eligibility": "Homeless individuals",
+      "serviceArea": "Lake Havasu City area",
+      "notes": "No permanent shelter facility; seasonal fluctuations in need",
+      "languageSupport": "English",
+      "website": "https://clothesclosetlhc.org/havasu-hope/"
+    },
+    {
+      "city": "Lake Havasu City",
+      "group": "Low-Income Families",
+      "category": "Housing Assistance",
+      "name": "River Cities United Way",
+      "description": "Referrals and assistance programs",
+      "contactInfo": "145 N. Lake Havasu Ave., Lake Havasu City, AZ 86403 | Phone: 928-855-6333 | Website: https://www.rcuw.org/",
+      "eligibility": "Income eligibility requirements vary by program",
+      "serviceArea": "Lake Havasu City area",
+      "notes": "Limited direct housing assistance; primarily referral-based",
+      "languageSupport": "English",
+      "website": "https://www.rcuw.org/"
+    },
+    {
+      "city": "Lake Havasu City",
+      "group": "Veterans",
+      "category": "Support Services",
+      "name": "Veterans Resource Center",
+      "description": "Support services and referrals for veterans",
+      "contactInfo": "1720 Mesquite Ave. #105, Lake Havasu City, AZ 86403 | Phone: 928-854-7172",
+      "eligibility": "Veterans with proof of service",
+      "serviceArea": "Lake Havasu City area",
+      "notes": "Limited funding for direct financial assistance",
+      "languageSupport": "English",
+      "website": "https://www.vietvets.org/"
+    },
+    {
+      "city": "Bullhead City",
+      "group": "Homeless Individuals",
+      "category": "Emergency Shelter",
+      "name": "Catholic Charities - Legacy Foundation Christine Stamper Center for Help & Hope",
+      "description": "Emergency shelter and support services",
+      "contactInfo": "1594 Hancock Road, Bullhead City, AZ | Phone: 928-758-4872",
+      "eligibility": "Homeless individuals and families",
+      "serviceArea": "Bullhead City and surrounding areas",
+      "notes": "Limited capacity; often at full occupancy",
+      "languageSupport": "English/Spanish",
+      "website": "https://www.catholiccharitiesaz.org/bhc-shelter"
+    },
+    {
+      "city": "Bullhead City",
+      "group": "Homeless Individuals",
+      "category": "Food Assistance",
+      "name": "The Salvation Army - Bullhead City Corps",
+      "description": "Food pantry and meal services",
+      "contactInfo": "1461 Palma Road, Bullhead City, AZ 86442 | Phone: 928-758-3141",
+      "eligibility": "Anyone in need",
+      "serviceArea": "Bullhead City area",
+      "notes": "Limited hours of operation",
+      "languageSupport": "English",
+      "website": "https://bullheadcity.salvationarmy.org/"
+    },
+    {
+      "city": "Bullhead City",
+      "group": "Low-Income Families",
+      "category": "Support Services",
+      "name": "River Fund Inc.",
+      "description": "Emergency financial assistance and support",
+      "contactInfo": "2620 Highway 95, Suite 110, Bullhead City, AZ 86442 | Phone: 928-758-3663 | Website: https://riverfundinc.com/",
+      "eligibility": "Income eligibility requirements vary by program",
+      "serviceArea": "Tri-State area (AZ/NV/CA)",
+      "notes": "Limited funding; high demand for services",
+      "languageSupport": "English",
+      "website": "https://riverfundinc.com/"
+    },
+    {
+      "city": "Bullhead City",
+      "group": "Veterans",
+      "category": "Support Services",
+      "name": "Veterans Resource Center - Bullhead City",
+      "description": "Support services and referrals for veterans",
+      "contactInfo": "2580 Highway 95, Suite 211, Bullhead City, AZ 86442 | Phone: 928-704-0063",
+      "eligibility": "Veterans with proof of service",
+      "serviceArea": "Bullhead City area",
+      "notes": "Limited staff capacity",
+      "languageSupport": "English",
+      "website": "https://www.vietvets.org/"
+    },
+    {
+      "city": "Oatman",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Oatman",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Bullhead City (13.20 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Seligman",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Seligman",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Flagstaff (80 miles away) or Prescott (70 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Hackberry",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Hackberry",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Kingman (17.14 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Valentine",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Valentine",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Kingman (17.87 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Golden Valley",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Golden Valley",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Bullhead City (10.98 miles away) or Kingman (15 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Golden Valley",
+      "group": "All Groups",
+      "category": "Support Services",
+      "name": "Mohave Electric Cooperative",
+      "description": "Utility assistance programs",
+      "contactInfo": "928 Hancock Road, Bullhead City, AZ 86442 | Phone: 928-763-1100 | Website: https://www.mohaveelectric.com/",
+      "eligibility": "Income eligibility requirements vary by program",
+      "serviceArea": "Service area including Golden Valley",
+      "notes": "Limited to utility assistance only",
+      "languageSupport": "English",
+      "website": "https://www.mohaveelectric.com/"
+    },
+    {
+      "city": "Topock",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Topock",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Lake Havasu City (18.24 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Topock",
+      "group": "All Groups",
+      "category": "Support Services",
+      "name": "River Fund Inc.",
+      "description": "Crisis and emergency assistance",
+      "contactInfo": "2620 Highway 95, Suite 110, Bullhead City, AZ 86442 | Phone: 928-758-3663 | Website: https://riverfundinc.com/",
+      "eligibility": "Individuals and families in crisis",
+      "serviceArea": "Tri-State area including Topock",
+      "notes": "Focuses on emergency financial assistance rather than direct shelter services",
+      "languageSupport": "English",
+      "website": "https://riverfundinc.com/"
+    },
+    {
+      "city": "Wikieup",
+      "group": "Homeless Individuals",
+      "category": "Resource Gap",
+      "name": "No local homeless services",
+      "description": "No homeless shelters or direct services in Wikieup",
+      "contactInfo": "N/A",
+      "eligibility": "N/A",
+      "serviceArea": "N/A",
+      "notes": "Complete lack of local services; nearest resources in Kingman (50 miles away)",
+      "languageSupport": "English",
+      "website": "N/A"
+    },
+    {
+      "city": "Havasupai Reservation",
+      "group": "Tribal Members",
+      "category": "Housing Programs",
+      "name": "Havasupai Tribal Housing Authority",
+      "description": "Tribal housing programs",
+      "contactInfo": "Havasupai Tribal Council, Supai, AZ 86435 | Phone: Contact through Tribal Office",
+      "eligibility": "Tribal members",
+      "serviceArea": "Havasupai Reservation",
+      "notes": "Extreme geographic isolation (accessible only by helicopter, hiking, or mule)",
+      "languageSupport": "English/Havasupai",
+      "website": "https://theofficialhavasupaitribe.com/"
+    },
+    {
+      "city": "Havasupai Reservation",
+      "group": "Tribal Members",
+      "category": "Housing Development",
+      "name": "Habitat for Humanity Central Arizona - Havasupai Project",
+      "description": "Collaborative housing construction",
+      "contactInfo": "Website: https://habitatcaz.org/havasupai/",
+      "eligibility": "Determined by tribal leadership and Habitat criteria",
+      "serviceArea": "Havasupai Reservation (Supai Village)",
+      "notes": "Extreme logistical challenges requiring helicopter transport",
+      "languageSupport": "English/Havasupai",
+      "website": "https://habitatcaz.org/havasupai/"
+    },
+    {
+      "city": "Hualapai Reservation",
+      "group": "Tribal Members",
+      "category": "Housing Programs",
+      "name": "Hualapai Tribal Housing Department",
+      "description": "Tribal housing programs",
+      "contactInfo": "Hualapai Tribal Council, P.O. Box 179, Peach Springs, AZ 86434 | Phone: 928-769-2216",
+      "eligibility": "Tribal members",
+      "serviceArea": "Hualapai Reservation",
+      "notes": "Limited funding and housing stock",
+      "languageSupport": "English/Hualapai",
+      "website": "https://hualapai-nsn.gov/"
+    },
+    {
+      "city": "Hualapai Reservation",
+      "group": "Tribal Members",
+      "category": "Social Services",
+      "name": "Hualapai Tribal Social Services",
+      "description": "Social welfare services",
+      "contactInfo": "Hualapai Tribal Council, P.O. Box 179, Peach Springs, AZ 86434 | Phone: 928-769-2216",
+      "eligibility": "Tribal members",
+      "serviceArea": "Hualapai Reservation",
+      "notes": "Limited resources for comprehensive homeless services",
+      "languageSupport": "English/Hualapai",
+      "website": "https://hualapai-nsn.gov/"
+    },
+    {
+      "city": "Mohave County",
+      "group": "All Groups",
+      "category": "Referral Services",
+      "name": "River Cities United Way",
+      "description": "Nonprofit promoting health education and financial stability",
+      "contactInfo": "Website: https://www.rcuw.org/",
+      "eligibility": "Varies by program",
+      "serviceArea": "Mohave and La Paz Counties",
+      "notes": "Acts primarily as a connector rather than direct service provider",
+      "languageSupport": "English",
+      "website": "https://www.rcuw.org/"
+    },
+    {
+      "city": "Mohave County",
+      "group": "Native American Communities",
+      "category": "Housing Development",
+      "name": "Red Feather Development Group",
+      "description": "Housing assistance for Native American communities",
+      "contactInfo": "Website: https://www.redfeather.org/",
+      "eligibility": "Native American families in partner tribal communities",
+      "serviceArea": "Various tribal communities",
+      "notes": "Currently focused on Navajo and Hopi communities",
+      "languageSupport": "English/Native languages",
+      "website": "https://www.redfeather.org/"
+    },
+    {
+      "city": "Mohave County",
+      "group": "Native American Communities",
+      "category": "Housing Development",
+      "name": "Rural Community Assistance Corporation (RCAC)",
+      "description": "Training and technical assistance for tribal housing",
+      "contactInfo": "Website: https://www.rcac.org/",
+      "eligibility": "Tribal housing authorities and departments",
+      "serviceArea": "Western states including Arizona tribal communities",
+      "notes": "Capacity building rather than direct services",
+      "languageSupport": "English/Native languages",
+      "website": "https://www.rcac.org/"
+    }
+  ]
+}
